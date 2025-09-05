@@ -199,7 +199,7 @@ Finalmente en este proyecto se encuentra el ```README.md``` que pretende explica
 - [Jose Maria Luna Ariza](https://github.com/jmluna) Profesor Contratado Doctor del Dpto. de Informática y Análisis Numérico.
 
 ## Codirector
-- [Christian Luna Escudero](https://www.github.com/ChrisLe7) Alumno de 4º curso del Grado de Ingeniería Informática – Doble Mención: Software y Computación.
+- [Christian Luna Escudero](https://www.github.com/ChrisLe7) Personal Investigador Pre-doctoral FPU.
 
 
 ## Instalación
