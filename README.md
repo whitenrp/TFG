@@ -12,17 +12,11 @@ En este directorio se encuentran todos los archivos necesarios para hacer uso de
     ├── codigos
     │   ├── evolutivo
     │   │   ├── main.py
-    │   │   ├── main_estricto.py
-    │   │   ├── test.py
-    │   │   └── test_estricto.py
     │   ├── PC
     │   │   ├── Pc.py
     │   │   ├── PC-stable.py
-    │   │   ├── test_PC.py
-    │   │   └── test_PC-stable.py
     │   └── Notears
     |       ├── Notears.py
-    │       └── test_Notears.py
 
 ### Datasets
 En este directorio se encuentran todas las bases de datos utilizadas en la Experimentación realizada en el Manual Técnico del Trabajo de Fin de Grado. Con el fin de que se puedan analizar y ser utilizadas fácilmente por aquellas personas que deseen comprobar el funcionamiento de los algoritmos desarrollados.
