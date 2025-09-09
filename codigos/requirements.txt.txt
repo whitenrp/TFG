@@ -1,0 +1,19 @@
+!pip install pgmpy
+!pip install psutil
+!pip install git+https://github.com/xunzheng/notears.git
+import random
+import pandas as pd
+import time
+import numpy as np
+import scipy.stats as stats
+import psutil
+import tracemalloc
+import time
+import networkx as nx
+from pgmpy.estimators import PC, CITests
+from itertools import combinations
+from scipy.stats import pearsonr, spearmanr
+from scipy.stats import chi2_contingency
+from notears.linear import notears_linear
+
+
