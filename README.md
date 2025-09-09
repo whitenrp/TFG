@@ -190,7 +190,7 @@ Finalmente en este proyecto se encuentra el ```README.md``` que pretende explica
 - [Nemesio Romero Pino](https://www.github.com/whitenrp) Alumno de 4º curso del Grado de Ingeniería Informática – Mención: Computación.
 
 ## Director
-- [Jose Maria Luna Ariza](https://github.com/jmluna) Profesor Contratado Doctor del Dpto. de Informática y Análisis Numérico.
+- [Jose Maria Luna Ariza](https://github.com/jmluna) Profesor Titular de Universidad, Dpto. de Informática y Análisis Numérico.
 
 ## Codirector
 - [Christian Luna Escudero](https://www.github.com/ChrisLe7) Personal Investigador Pre-doctoral FPU, Contratado Dpto. de Informática y Análisis Numérico.
