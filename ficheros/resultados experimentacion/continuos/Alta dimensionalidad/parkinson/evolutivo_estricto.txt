@@ -1,0 +1,72 @@
+dataset parkinson
+seccion 2935
+
+Existen 23 relaciones:
+[('subject#', 'sex'), ('subject#', 'motor_UPDRS'), ('subject#', 'DFA'), ('age', 'HNR'), ('age', 'RPDE'), ('age', 'DFA'), ('sex', 'Jitter(Abs)'), ('motor_UPDRS', 'total_UPDRS'), ('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter(Abs)', 'NHR'), ('Jitter(Abs)', 'PPE'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:PPQ5', 'NHR'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ11', 'RPDE'), ('HNR', 'DFA'), ('RPDE', 'DFA'), ('RPDE', 'PPE'), ('DFA', 'PPE')]
+Vecinos:
+El tiempo de tu algoritmo es 110.60421895980835
+Uso de CPU: 1.10%
+Memoria utilizada (actual): 2.41 MB
+Memoria pico: 3.44 MB
+
+---------------------------------------------------------------------------------
+
+seccion 3522
+
+Existen 21 relaciones:
+[('subject#', 'sex'), ('subject#', 'motor_UPDRS'), ('subject#', 'DFA'), ('age', 'HNR'), ('age', 'RPDE'), ('age', 'DFA'), ('sex', 'HNR'), ('motor_UPDRS', 'total_UPDRS'), ('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter(Abs)', 'PPE'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:PPQ5', 'NHR'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ11', 'RPDE'), ('HNR', 'DFA'), ('RPDE', 'PPE'), ('DFA', 'PPE')]
+Vecinos:
+El tiempo de tu algoritmo es 78.35839176177979
+Uso de CPU: -35.80%
+Memoria utilizada (actual): 0.13 MB
+Memoria pico: 1.20 MB
+
+---------------------------------------------------------------------------------
+
+seccion 4109
+
+Existen 20 relaciones:
+[('subject#', 'sex'), ('subject#', 'DFA'), ('age', 'RPDE'), ('motor_UPDRS', 'total_UPDRS'), ('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter(%)', 'NHR'), ('Jitter(Abs)', 'Jitter:PPQ5'), ('Jitter(Abs)', 'PPE'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:PPQ5', 'NHR'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('HNR', 'DFA'), ('RPDE', 'DFA'), ('RPDE', 'PPE'), ('DFA', 'PPE')]
+Vecinos:
+El tiempo de tu algoritmo es 77.62218642234802
+Uso de CPU: 65.70%
+Memoria utilizada (actual): 0.13 MB
+Memoria pico: 1.36 MB
+
+---------------------------------------------------------------------------------
+
+seccion 4696
+
+Existen 21 relaciones:
+[('subject#', 'sex'), ('subject#', 'DFA'), ('age', 'HNR'), ('age', 'RPDE'), ('sex', 'Jitter(Abs)'), ('motor_UPDRS', 'total_UPDRS'), ('total_UPDRS', 'RPDE'), ('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter(%)', 'NHR'), ('Jitter(Abs)', 'PPE'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:PPQ5', 'NHR'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('HNR', 'DFA'), ('RPDE', 'DFA'), ('RPDE', 'PPE'), ('DFA', 'PPE')]
+Vecinos:
+El tiempo de tu algoritmo es 89.94396924972534
+Uso de CPU: 63.30%
+Memoria utilizada (actual): 0.15 MB
+Memoria pico: 1.47 MB
+
+---------------------------------------------------------------------------------
+
+seccion 5283
+
+Existen 20 relaciones:
+[('subject#', 'sex'), ('subject#', 'DFA'), ('age', 'HNR'), ('motor_UPDRS', 'total_UPDRS'), ('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter(%)', 'NHR'), ('Jitter(Abs)', 'PPE'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:PPQ5', 'NHR'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ5', 'NHR'), ('Shimmer:APQ11', 'NHR'), ('HNR', 'DFA'), ('RPDE', 'DFA'), ('RPDE', 'PPE')]
+Vecinos:
+El tiempo de tu algoritmo es 89.9413480758667
+Uso de CPU: 64.80%
+Memoria utilizada (actual): 0.15 MB
+Memoria pico: 1.61 MB
+
+---------------------------------------------------------------------------------
+
+seccion 5870
+
+Existen 22 relaciones:
+[('subject#', 'sex'), ('subject#', 'DFA'), ('age', 'total_UPDRS'), ('age', 'HNR'), ('age', 'RPDE'), ('age', 'DFA'), ('sex', 'Jitter(Abs)'), ('motor_UPDRS', 'total_UPDRS'), ('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter(%)', 'PPE'), ('Jitter(Abs)', 'PPE'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:PPQ5', 'NHR'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('HNR', 'DFA'), ('RPDE', 'DFA'), ('RPDE', 'PPE')]
+Vecinos:
+El tiempo de tu algoritmo es 91.08341336250305
+Uso de CPU: 63.70%
+Memoria utilizada (actual): 0.15 MB
+Memoria pico: 1.68 MB
+
+---------------------------------------------------------------------------------

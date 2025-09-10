@@ -1,0 +1,109 @@
+sesion 3000
+Estructura aprendida por el algoritmo Notears:
+['[var_9-var_21]', '[var_13-var_21]', '[var_17-var_21]', '[var_23-var_22]']
+Ha detectado 4 relaciones distintas de cero.
+El tiempo de tu algoritmo es 66.69752097129822
+Uso de CPU: 86.30%
+Memoria utilizada (actual): 0.74 MB
+Memoria pico: 4.44 MB
+
+---------------------------------------------------------------------------------
+
+sesion 6000
+Estructura aprendida por el algoritmo Notears:
+['[var_9-var_21]', '[var_13-var_21]', '[var_17-var_21]', '[var_23-var_22]']
+Ha detectado 4 relaciones distintas de cero.
+El tiempo de tu algoritmo es 83.29960775375366
+Uso de CPU: 99.80%
+Memoria utilizada (actual): 1.53 MB
+Memoria pico: 7.87 MB
+
+---------------------------------------------------------------------------------
+
+sesion 9000
+Estructura aprendida por el algoritmo Notears:
+['[var_9-var_21]', '[var_13-var_21]', '[var_17-var_21]', '[var_23-var_22]']
+Ha detectado 4 relaciones distintas de cero.
+El tiempo de tu algoritmo es 83.10195136070251
+Uso de CPU: -0.10%
+Memoria utilizada (actual): 2.06 MB
+Memoria pico: 11.08 MB
+
+---------------------------------------------------------------------------------
+
+sesion 12000
+Estructura aprendida por el algoritmo Notears:
+['[var_9-var_21]', '[var_13-var_21]', '[var_17-var_21]', '[var_23-var_22]']
+Ha detectado 4 relaciones distintas de cero.
+El tiempo de tu algoritmo es 144.75350189208984
+Uso de CPU: -0.10%
+Memoria utilizada (actual): 2.72 MB
+Memoria pico: 16.99 MB
+
+---------------------------------------------------------------------------------
+
+sesion 15000
+Estructura aprendida por el algoritmo Notears:
+['[var_9-var_21]', '[var_13-var_21]', '[var_17-var_21]', '[var_23-var_22]']
+Ha detectado 4 relaciones distintas de cero.
+El tiempo de tu algoritmo es 197.47732591629028
+Uso de CPU: -0.10%
+Memoria utilizada (actual): 3.39 MB
+Memoria pico: 20.99 MB
+
+---------------------------------------------------------------------------------
+
+sesion 18000
+Estructura aprendida por el algoritmo Notears:
+['[var_9-var_21]', '[var_13-var_21]', '[var_17-var_21]', '[var_23-var_22]']
+Ha detectado 4 relaciones distintas de cero.
+El tiempo de tu algoritmo es 154.71255826950073
+Uso de CPU: -0.10%
+Memoria utilizada (actual): 4.05 MB
+Memoria pico: 24.96 MB
+
+---------------------------------------------------------------------------------
+
+sesion 21000
+Estructura aprendida por el algoritmo Notears:
+['[var_9-var_21]', '[var_13-var_21]', '[var_17-var_21]', '[var_23-var_22]']
+Ha detectado 4 relaciones distintas de cero.
+El tiempo de tu algoritmo es 122.6549437046051
+Uso de CPU: -0.10%
+Memoria utilizada (actual): 4.70 MB
+Memoria pico: 28.94 MB
+
+---------------------------------------------------------------------------------
+
+sesion 24000
+Estructura aprendida por el algoritmo Notears:
+['[var_9-var_21]', '[var_13-var_21]', '[var_17-var_21]', '[var_23-var_22]']
+Ha detectado 4 relaciones distintas de cero.
+El tiempo de tu algoritmo es 132.3006534576416
+Uso de CPU: -0.10%
+Memoria utilizada (actual): 5.38 MB
+Memoria pico: 27.66 MB
+
+---------------------------------------------------------------------------------
+
+sesion 27000
+Estructura aprendida por el algoritmo Notears:
+['[var_9-var_21]', '[var_13-var_21]', '[var_17-var_21]', '[var_23-var_22]']
+Ha detectado 4 relaciones distintas de cero.
+El tiempo de tu algoritmo es 136.00655841827393
+Uso de CPU: -0.10%
+Memoria utilizada (actual): 6.04 MB
+Memoria pico: 30.97 MB
+
+---------------------------------------------------------------------------------
+
+sesion 30000
+Estructura aprendida por el algoritmo Notears:
+['[var_9-var_21]', '[var_13-var_21]', '[var_17-var_21]', '[var_23-var_22]']
+Ha detectado 4 relaciones distintas de cero.
+El tiempo de tu algoritmo es 216.6535427570343
+Uso de CPU: -0.10%
+Memoria utilizada (actual): 6.70 MB
+Memoria pico: 34.32 MB
+
+---------------------------------------------------------------------------------

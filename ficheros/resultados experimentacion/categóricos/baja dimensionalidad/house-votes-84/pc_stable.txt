@@ -1,0 +1,20 @@
+PC-stable Ha detectado 10 
+Las aristas aprendidas por PC.stable son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 11.42 seconds
+Memory used: 0.4270954132080078 bytes
+
+
+
+PC-stable Ha detectado 10 
+Las aristas aprendidas por PC.stable son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 11.72 seconds
+Memory used: 0.4033689498901367 bytes
+
+
+PC-stable Ha detectado 10 
+Las aristas aprendidas por PC.stable son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 11.48 seconds
+Memory used: 0.4146280288696289 bytes

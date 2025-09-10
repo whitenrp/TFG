@@ -1,0 +1,14 @@
+Existen 3 relaciones:
+[('parents', 'health'), ('finance', 'health'), ('social', 'health')]
+Time taken: 40:17 seconds
+Memory used: 2.91 bytes
+
+Existen 3 relaciones:
+[('parents', 'health'), ('finance', 'health'), ('social', 'health')]
+Time taken: 48.31 seconds
+Memory used: 2.40 bytes
+
+Existen 3 relaciones:
+[('parents', 'health'), ('finance', 'health'), ('social', 'health')]
+Time taken: 42.33 seconds
+Memory used: 2.64 bytes

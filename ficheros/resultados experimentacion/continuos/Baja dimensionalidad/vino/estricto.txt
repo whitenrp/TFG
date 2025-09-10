@@ -1,0 +1,29 @@
+Existen 4 relaciones:
+[('v1', 'v5'), ('v2', 'v11'), ('v7', 'v8'), ('v12', 'v13')]
+Vecinos:
+El tiempo de tu algoritmo-estricto es 9.47
+Uso de CPU: 57.10%
+Memoria utilizada (actual): 0.08 MB
+Memoria pico: 0.11 MB
+
+---------------------------------------------------------------------------------
+
+Existen 4 relaciones:
+[('v1', 'v5'), ('v2', 'v11'), ('v7', 'v8'), ('v12', 'v13')]
+Vecinos:
+El tiempo de tu algoritmo-estricto es 9.88
+Uso de CPU: 57.10%
+Memoria utilizada (actual): 0.06 MB
+Memoria pico: 0.13 MB
+
+---------------------------------------------------------------------------------
+
+Existen 4 relaciones:
+[('v1', 'v5'), ('v2', 'v11'), ('v7', 'v8'), ('v12', 'v13')]
+Vecinos:
+El tiempo de tu algoritmo-estricto es 9.28
+Uso de CPU: 57.10%
+Memoria utilizada (actual): 0.05 MB
+Memoria pico: 0.10 MB
+
+---------------------------------------------------------------------------------

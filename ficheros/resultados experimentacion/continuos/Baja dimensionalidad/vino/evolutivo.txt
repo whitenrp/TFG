@@ -1,0 +1,20 @@
+Existen 13 relaciones:
+[('v1', 'v3'), ('v1', 'v5'), ('v1', 'v9'), ('v2', 'v4'), ('v2', 'v6'), ('v4', 'v5'), ('v4', 'v6'), ('v7', 'v8'), ('v7', 'v10'), ('v7', 'v13'), ('v8', 'v13'), ('v11', 'v14'), ('v12', 'v13')]
+El tiempo de tu algoritmo es 15.98
+Uso de CPU: 53.90%
+Memoria utilizada (actual): 0.09 MB
+Memoria pico: 0.18 MB
+
+Existen 13 relaciones:
+[('v1', 'v3'), ('v1', 'v5'), ('v1', 'v9'), ('v2', 'v4'), ('v2', 'v6'), ('v4', 'v5'), ('v4', 'v6'), ('v7', 'v8'), ('v7', 'v10'), ('v7', 'v13'), ('v8', 'v13'), ('v11', 'v14'), ('v12', 'v13')]
+El tiempo de tu algoritmo es 15.09
+Uso de CPU: 53.90%
+Memoria utilizada (actual): 0.09 MB
+Memoria pico: 0.21 MB
+
+Existen 13 relaciones:
+[('v1', 'v3'), ('v1', 'v5'), ('v1', 'v9'), ('v2', 'v4'), ('v2', 'v6'), ('v4', 'v5'), ('v4', 'v6'), ('v7', 'v8'), ('v7', 'v10'), ('v7', 'v13'), ('v8', 'v13'), ('v11', 'v14'), ('v12', 'v13')]
+El tiempo de tu algoritmo es 14.78
+Uso de CPU: 53.90%
+Memoria utilizada (actual): 0.08 MB
+Memoria pico: 0.16 MB

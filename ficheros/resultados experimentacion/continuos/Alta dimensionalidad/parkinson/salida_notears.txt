@@ -1,0 +1,83 @@
+
+
+conjunto de 2935
+
+Estructura aprendida por el algoritmo Notears:
+['[sex-subject#]', '[sex-motor_UPDRS]', '[sex-total_UPDRS]', '[motor_UPDRS-total_UPDRS]', '[total_UPDRS-subject#]', '[total_UPDRS-age]', '[total_UPDRS-test_time]', '[Shimmer(dB)-HNR]', '[HNR-subject#]', '[HNR-test_time]', '[RPDE-HNR]', '[DFA-test_time]', '[PPE-test_time]', '[PPE-HNR]']
+Ha detectado 14 relaciones distintas de cero.
+El tiempo de Notears es 282.51434898376465
+Uso de CPU: 76.50%
+Memoria utilizada (actual): 2.07 MB
+Memoria pico: 6.65 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 3522
+
+Estructura aprendida por el algoritmo Notears:
+['[sex-subject#]', '[sex-motor_UPDRS]', '[sex-total_UPDRS]', '[motor_UPDRS-total_UPDRS]', '[total_UPDRS-subject#]', '[total_UPDRS-age]', '[total_UPDRS-test_time]', '[Shimmer(dB)-HNR]', '[HNR-subject#]', '[HNR-test_time]', '[RPDE-HNR]', '[DFA-test_time]', '[PPE-test_time]', '[PPE-HNR]']
+Ha detectado 14 relaciones distintas de cero.
+El tiempo de Notears es 265.4127526283264
+Uso de CPU: 0.00%
+Memoria utilizada (actual): 2.05 MB
+Memoria pico: 6.63 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 4109
+
+Estructura aprendida por el algoritmo Notears:
+['[sex-subject#]', '[sex-motor_UPDRS]', '[sex-total_UPDRS]', '[motor_UPDRS-total_UPDRS]', '[total_UPDRS-subject#]', '[total_UPDRS-age]', '[total_UPDRS-test_time]', '[Shimmer(dB)-HNR]', '[HNR-subject#]', '[HNR-test_time]', '[RPDE-HNR]', '[DFA-test_time]', '[PPE-test_time]', '[PPE-HNR]']
+Ha detectado 14 relaciones distintas de cero.
+El tiempo de Notears es 261.60081601142883
+Uso de CPU: 0.00%
+Memoria utilizada (actual): 2.06 MB
+Memoria pico: 6.63 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 4696
+
+Estructura aprendida por el algoritmo Notears:
+['[sex-subject#]', '[sex-motor_UPDRS]', '[sex-total_UPDRS]', '[motor_UPDRS-total_UPDRS]', '[total_UPDRS-subject#]', '[total_UPDRS-age]', '[total_UPDRS-test_time]', '[Shimmer(dB)-HNR]', '[HNR-subject#]', '[HNR-test_time]', '[RPDE-HNR]', '[DFA-test_time]', '[PPE-test_time]', '[PPE-HNR]']
+Ha detectado 14 relaciones distintas de cero.
+El tiempo de Notears es 268.86422204971313
+Uso de CPU: 0.00%
+Memoria utilizada (actual): 2.07 MB
+Memoria pico: 6.65 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 5283
+
+Estructura aprendida por el algoritmo Notears:
+['[sex-subject#]', '[sex-motor_UPDRS]', '[sex-total_UPDRS]', '[motor_UPDRS-total_UPDRS]', '[total_UPDRS-subject#]', '[total_UPDRS-age]', '[total_UPDRS-test_time]', '[Shimmer(dB)-HNR]', '[HNR-subject#]', '[HNR-test_time]', '[RPDE-HNR]', '[DFA-test_time]', '[PPE-test_time]', '[PPE-HNR]']
+Ha detectado 14 relaciones distintas de cero.
+El tiempo de Notears es 256.5808415412903
+Uso de CPU: 0.00%
+Memoria utilizada (actual): 2.05 MB
+Memoria pico: 6.67 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 5870
+
+Estructura aprendida por el algoritmo Notears:
+['[sex-subject#]', '[sex-motor_UPDRS]', '[sex-total_UPDRS]', '[motor_UPDRS-total_UPDRS]', '[total_UPDRS-subject#]', '[total_UPDRS-age]', '[total_UPDRS-test_time]', '[Shimmer(dB)-HNR]', '[HNR-subject#]', '[HNR-test_time]', '[RPDE-HNR]', '[DFA-test_time]', '[PPE-test_time]', '[PPE-HNR]']
+Ha detectado 14 relaciones distintas de cero.
+El tiempo de Notears es 260.71651697158813
+Uso de CPU: 100.00%
+Memoria utilizada (actual): 2.05 MB
+Memoria pico: 7.61 MB
+
+---------------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+
+
+Existen 3 relaciones:
+[('parents', 'health'), ('finance', 'health'), ('social', 'health')]
+Vecinos:
+El tiempo de tu algoritmo-estricto es 2.31
+Uso de CPU: 33.90%
+Memoria utilizada (actual): 0.06 MB
+Memoria pico: 2.39 MB
+
+---------------------------------------------------------------------------------
+
+
+
+Existen 3 relaciones:
+[('parents', 'health'), ('finance', 'health'), ('social', 'health')]
+Vecinos:
+El tiempo de tu algoritmo-estricto es 2.41
+Uso de CPU: 32.90%
+Memoria utilizada (actual): 0.06 MB
+Memoria pico: 2.39 MB
+
+---------------------------------------------------------------------------------
+
+
+
+Existen 3 relaciones:
+[('parents', 'health'), ('finance', 'health'), ('social', 'health')]
+Vecinos:
+El tiempo de tu algoritmo-estricto es 2.62
+Uso de CPU: 40.90%
+Memoria utilizada (actual): 0.06 MB
+Memoria pico: 2.39 MB
+
+---------------------------------------------------------------------------------

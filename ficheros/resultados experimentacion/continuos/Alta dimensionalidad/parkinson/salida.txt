@@ -1,0 +1,192 @@
+dataset parkinson
+seccion 2935
+PC Ha detectado 27 
+Las aristas aprendidas por PC son:
+[('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('age', 'RPDE'), ('age', 'total_UPDRS'), ('age', 'DFA'), ('age', 'HNR'), ('RPDE', 'DFA'), ('RPDE', 'PPE'), ('total_UPDRS', 'motor_UPDRS'), ('motor_UPDRS', 'subject#'), ('NHR', 'Jitter(Abs)'), ('NHR', 'Jitter:PPQ5'), ('Jitter:PPQ5', 'Jitter(Abs)'), ('Jitter:PPQ5', 'Jitter(%)'), ('Jitter:PPQ5', 'NHR'), ('HNR', 'DFA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ5', 'Shimmer'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer(dB)', 'Shimmer'), ('test_time', 'total_UPDRS'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:DDP', 'Jitter:RAP'), ('Shimmer:DDA', 'Shimmer:APQ3'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer', 'Shimmer(dB)')]
+El tiempo de PC-stable es 51.99458193778992
+Uso de CPU: 12.80%
+Memoria utilizada (actual): 4.46 MB
+Memoria pico: 5.26 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 27 
+Las aristas aprendidas por PC son:
+[('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('age', 'RPDE'), ('age', 'total_UPDRS'), ('age', 'DFA'), ('age', 'HNR'), ('RPDE', 'DFA'), ('RPDE', 'PPE'), ('total_UPDRS', 'motor_UPDRS'), ('motor_UPDRS', 'subject#'), ('NHR', 'Jitter(Abs)'), ('NHR', 'Jitter:PPQ5'), ('Jitter:PPQ5', 'Jitter(Abs)'), ('Jitter:PPQ5', 'Jitter(%)'), ('Jitter:PPQ5', 'NHR'), ('HNR', 'DFA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ5', 'Shimmer'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer(dB)', 'Shimmer'), ('test_time', 'total_UPDRS'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:DDP', 'Jitter:RAP'), ('Shimmer:DDA', 'Shimmer:APQ3'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer', 'Shimmer(dB)')]
+El tiempo de PC-stable es 36.809195041656494
+Uso de CPU: 13.80%
+Memoria utilizada (actual): 1.68 MB
+Memoria pico: 2.00 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 28 relaciones:
+[('subject#', 'sex'), ('subject#', 'motor_UPDRS'), ('subject#', 'total_UPDRS'), ('subject#', 'DFA'), ('age', 'HNR'), ('age', 'RPDE'), ('age', 'DFA'), ('sex', 'Jitter(Abs)'), ('test_time', 'total_UPDRS'), ('motor_UPDRS', 'total_UPDRS'), ('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter(%)', 'NHR'), ('Jitter(Abs)', 'NHR'), ('Jitter(Abs)', 'PPE'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:PPQ5', 'NHR'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ11', 'RPDE'), ('HNR', 'DFA'), ('HNR', 'PPE'), ('RPDE', 'DFA'), ('RPDE', 'PPE'), ('DFA', 'PPE')]
+Vecinos:
+El tiempo de tu algoritmo es 113.85168862342834
+Uso de CPU: 13.90%
+Memoria utilizada (actual): 0.16 MB
+Memoria pico: 1.17 MB
+
+---------------------------------------------------------------------------------
+
+seccion 3522
+PC Ha detectado 26 
+Las aristas aprendidas por PC son:
+[('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('DFA', 'age'), ('age', 'RPDE'), ('RPDE', 'DFA'), ('subject#', 'sex'), ('subject#', 'DFA'), ('NHR', 'Jitter(Abs)'), ('NHR', 'Jitter:PPQ5'), ('Jitter:PPQ5', 'Jitter(Abs)'), ('Jitter:PPQ5', 'Jitter(%)'), ('Jitter:PPQ5', 'NHR'), ('PPE', 'DFA'), ('total_UPDRS', 'age'), ('total_UPDRS', 'motor_UPDRS'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ5', 'Shimmer'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer(dB)', 'Shimmer'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:DDP', 'Jitter:RAP'), ('Shimmer:DDA', 'Shimmer:APQ3'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer', 'Shimmer(dB)'), ('motor_UPDRS', 'total_UPDRS')]
+El tiempo de PC-stable es 41.04379463195801
+Uso de CPU: -37.10%
+Memoria utilizada (actual): 1.96 MB
+Memoria pico: 2.43 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 26 
+Las aristas aprendidas por PC son:
+[('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('DFA', 'age'), ('age', 'RPDE'), ('RPDE', 'DFA'), ('subject#', 'sex'), ('subject#', 'DFA'), ('NHR', 'Jitter(Abs)'), ('NHR', 'Jitter:PPQ5'), ('Jitter:PPQ5', 'Jitter(Abs)'), ('Jitter:PPQ5', 'Jitter(%)'), ('Jitter:PPQ5', 'NHR'), ('PPE', 'DFA'), ('total_UPDRS', 'age'), ('total_UPDRS', 'motor_UPDRS'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ5', 'Shimmer'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer(dB)', 'Shimmer'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:DDP', 'Jitter:RAP'), ('Shimmer:DDA', 'Shimmer:APQ3'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer', 'Shimmer(dB)'), ('motor_UPDRS', 'total_UPDRS')]
+El tiempo de PC-stable es 42.057780504226685
+Uso de CPU: 7.90%
+Memoria utilizada (actual): 1.93 MB
+Memoria pico: 2.31 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 25 relaciones:
+[('subject#', 'sex'), ('subject#', 'motor_UPDRS'), ('subject#', 'DFA'), ('age', 'HNR'), ('age', 'RPDE'), ('age', 'DFA'), ('sex', 'Jitter(Abs)'), ('sex', 'HNR'), ('motor_UPDRS', 'total_UPDRS'), ('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter(Abs)', 'NHR'), ('Jitter(Abs)', 'PPE'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:PPQ5', 'NHR'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ11', 'RPDE'), ('HNR', 'DFA'), ('RPDE', 'DFA'), ('RPDE', 'PPE'), ('DFA', 'PPE')]
+Vecinos:
+El tiempo de tu algoritmo es 122.45010447502136
+Uso de CPU: 13.80%
+Memoria utilizada (actual): 0.16 MB
+Memoria pico: 1.36 MB
+
+---------------------------------------------------------------------------------
+
+seccion 4109
+PC Ha detectado 17 
+Las aristas aprendidas por PC son:
+[('Shimmer(dB)', 'Shimmer'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('test_time', 'HNR'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ5', 'Shimmer'), ('total_UPDRS', 'age'), ('total_UPDRS', 'RPDE'), ('total_UPDRS', 'motor_UPDRS'), ('DFA', 'HNR'), ('RPDE', 'total_UPDRS'), ('motor_UPDRS', 'total_UPDRS'), ('Jitter:DDP', 'Jitter:RAP'), ('Jitter:RAP', 'Jitter:DDP'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:DDA', 'Shimmer:APQ3'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter:PPQ5', 'Jitter(%)')]
+El tiempo de PC-stable es 52.1557035446167
+Uso de CPU: 63.40%
+Memoria utilizada (actual): 2.23 MB
+Memoria pico: 2.72 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 17 
+Las aristas aprendidas por PC son:
+[('Shimmer(dB)', 'Shimmer'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('test_time', 'HNR'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ5', 'Shimmer'), ('total_UPDRS', 'age'), ('total_UPDRS', 'RPDE'), ('total_UPDRS', 'motor_UPDRS'), ('DFA', 'HNR'), ('RPDE', 'total_UPDRS'), ('motor_UPDRS', 'total_UPDRS'), ('Jitter:DDP', 'Jitter:RAP'), ('Jitter:RAP', 'Jitter:DDP'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:DDA', 'Shimmer:APQ3'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter:PPQ5', 'Jitter(%)')]
+El tiempo de PC-stable es 51.958990812301636
+Uso de CPU: 15.60%
+Memoria utilizada (actual): 2.19 MB
+Memoria pico: 2.63 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 24 relaciones:
+[('subject#', 'sex'), ('subject#', 'DFA'), ('age', 'HNR'), ('age', 'RPDE'), ('age', 'DFA'), ('sex', 'Jitter(Abs)'), ('test_time', 'HNR'), ('motor_UPDRS', 'total_UPDRS'), ('total_UPDRS', 'RPDE'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter(%)', 'NHR'), ('Jitter(Abs)', 'Jitter:PPQ5'), ('Jitter(Abs)', 'PPE'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:PPQ5', 'NHR'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('HNR', 'DFA'), ('HNR', 'PPE'), ('RPDE', 'DFA'), ('RPDE', 'PPE'), ('DFA', 'PPE')]
+Vecinos:
+El tiempo de tu algoritmo es 120.79116344451904
+Uso de CPU: 21.00%
+Memoria utilizada (actual): 0.15 MB
+Memoria pico: 1.52 MB
+
+---------------------------------------------------------------------------------
+
+seccion 4696
+PC Ha detectado 23 
+Las aristas aprendidas por PC son:
+[('total_UPDRS', 'RPDE'), ('total_UPDRS', 'age'), ('total_UPDRS', 'motor_UPDRS'), ('RPDE', 'PPE'), ('RPDE', 'Shimmer:APQ11'), ('RPDE', 'age'), ('subject#', 'sex'), ('subject#', 'DFA'), ('Jitter(%)', 'Jitter:PPQ5'), ('NHR', 'Jitter(%)'), ('age', 'RPDE'), ('Shimmer:APQ11', 'PPE'), ('Shimmer:APQ11', 'RPDE'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer(dB)', 'Shimmer'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:DDP', 'Jitter:RAP'), ('Shimmer:DDA', 'Shimmer:APQ3'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer', 'Shimmer(dB)'), ('motor_UPDRS', 'total_UPDRS')]
+El tiempo de PC-stable es 42.142486572265625
+Uso de CPU: -37.70%
+Memoria utilizada (actual): 2.50 MB
+Memoria pico: 2.83 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 23 
+Las aristas aprendidas por PC son:
+[('total_UPDRS', 'RPDE'), ('total_UPDRS', 'age'), ('total_UPDRS', 'motor_UPDRS'), ('RPDE', 'PPE'), ('RPDE', 'Shimmer:APQ11'), ('RPDE', 'age'), ('subject#', 'sex'), ('subject#', 'DFA'), ('Jitter(%)', 'Jitter:PPQ5'), ('NHR', 'Jitter(%)'), ('age', 'RPDE'), ('Shimmer:APQ11', 'PPE'), ('Shimmer:APQ11', 'RPDE'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer(dB)', 'Shimmer'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:DDP', 'Jitter:RAP'), ('Shimmer:DDA', 'Shimmer:APQ3'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer', 'Shimmer(dB)'), ('motor_UPDRS', 'total_UPDRS')]
+El tiempo de PC-stable es 43.090031147003174
+Uso de CPU: 13.00%
+Memoria utilizada (actual): 2.42 MB
+Memoria pico: 2.88 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 28 relaciones:
+[('subject#', 'sex'), ('subject#', 'DFA'), ('age', 'total_UPDRS'), ('age', 'HNR'), ('age', 'RPDE'), ('age', 'DFA'), ('sex', 'Jitter(Abs)'), ('sex', 'HNR'), ('motor_UPDRS', 'total_UPDRS'), ('total_UPDRS', 'RPDE'), ('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter(%)', 'NHR'), ('Jitter(Abs)', 'Jitter:PPQ5'), ('Jitter(Abs)', 'PPE'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:PPQ5', 'NHR'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer(dB)', 'Shimmer:APQ5'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ11', 'PPE'), ('HNR', 'DFA'), ('RPDE', 'DFA'), ('RPDE', 'PPE'), ('DFA', 'PPE')]
+Vecinos:
+El tiempo de tu algoritmo es 123.1246452331543
+Uso de CPU: 21.90%
+Memoria utilizada (actual): 0.16 MB
+Memoria pico: 1.62 MB
+
+---------------------------------------------------------------------------------
+
+seccion 5283
+PC Ha detectado 20 
+Las aristas aprendidas por PC son:
+[('RPDE', 'PPE'), ('RPDE', 'age'), ('RPDE', 'total_UPDRS'), ('RPDE', 'DFA'), ('test_time', 'HNR'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer:APQ5', 'NHR'), ('Jitter:PPQ5', 'Jitter(%)'), ('total_UPDRS', 'age'), ('total_UPDRS', 'RPDE'), ('total_UPDRS', 'motor_UPDRS'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer(dB)', 'Shimmer'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:DDP', 'Jitter:RAP'), ('DFA', 'RPDE'), ('Shimmer:DDA', 'Shimmer:APQ3'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('motor_UPDRS', 'total_UPDRS')]
+El tiempo de PC-stable es 60.12382650375366
+Uso de CPU: -36.00%
+Memoria utilizada (actual): 2.74 MB
+Memoria pico: 3.26 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 20 
+Las aristas aprendidas por PC son:
+[('RPDE', 'PPE'), ('RPDE', 'age'), ('RPDE', 'total_UPDRS'), ('RPDE', 'DFA'), ('test_time', 'HNR'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer:APQ5', 'NHR'), ('Jitter:PPQ5', 'Jitter(%)'), ('total_UPDRS', 'age'), ('total_UPDRS', 'RPDE'), ('total_UPDRS', 'motor_UPDRS'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer(dB)', 'Shimmer'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:DDP', 'Jitter:RAP'), ('DFA', 'RPDE'), ('Shimmer:DDA', 'Shimmer:APQ3'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('motor_UPDRS', 'total_UPDRS')]
+El tiempo de PC-stable es 60.512314319610596
+Uso de CPU: 13.80%
+Memoria utilizada (actual): 2.71 MB
+Memoria pico: 3.18 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 29 relaciones:
+[('subject#', 'sex'), ('subject#', 'Shimmer:APQ11'), ('subject#', 'DFA'), ('age', 'total_UPDRS'), ('age', 'HNR'), ('age', 'RPDE'), ('age', 'DFA'), ('sex', 'Jitter(Abs)'), ('sex', 'HNR'), ('test_time', 'HNR'), ('motor_UPDRS', 'total_UPDRS'), ('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter(%)', 'PPE'), ('Jitter(Abs)', 'Jitter:PPQ5'), ('Jitter(Abs)', 'PPE'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:PPQ5', 'NHR'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer(dB)', 'Shimmer:APQ5'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ5', 'NHR'), ('HNR', 'DFA'), ('RPDE', 'DFA'), ('RPDE', 'PPE'), ('DFA', 'PPE')]
+Vecinos:
+El tiempo de tu algoritmo es 155.63585329055786
+Uso de CPU: -35.80%
+Memoria utilizada (actual): 0.17 MB
+Memoria pico: 1.95 MB
+
+---------------------------------------------------------------------------------
+
+seccion 5870
+PC Ha detectado 25 
+Las aristas aprendidas por PC son:
+[('total_UPDRS', 'RPDE'), ('total_UPDRS', 'age'), ('total_UPDRS', 'motor_UPDRS'), ('Jitter(%)', 'Jitter(Abs)'), ('subject#', 'RPDE'), ('test_time', 'HNR'), ('DFA', 'RPDE'), ('DFA', 'PPE'), ('age', 'DFA'), ('Jitter:PPQ5', 'Jitter(%)'), ('Shimmer', 'Shimmer:APQ11'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer', 'Shimmer(dB)'), ('NHR', 'Jitter:PPQ5'), ('NHR', 'Shimmer:APQ5'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ5', 'Shimmer'), ('Shimmer:APQ5', 'NHR'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer(dB)', 'Shimmer'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:DDP', 'Jitter:RAP'), ('Shimmer:DDA', 'Shimmer:APQ3'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('motor_UPDRS', 'total_UPDRS')]
+El tiempo de PC-stable es 60.71135973930359
+Uso de CPU: -36.50%
+Memoria utilizada (actual): 2.97 MB
+Memoria pico: 3.54 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 25 
+Las aristas aprendidas por PC son:
+[('total_UPDRS', 'RPDE'), ('total_UPDRS', 'age'), ('total_UPDRS', 'motor_UPDRS'), ('Jitter(%)', 'Jitter(Abs)'), ('subject#', 'RPDE'), ('test_time', 'HNR'), ('DFA', 'RPDE'), ('DFA', 'PPE'), ('age', 'DFA'), ('Jitter:PPQ5', 'Jitter(%)'), ('Shimmer', 'Shimmer:APQ11'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer', 'Shimmer(dB)'), ('NHR', 'Jitter:PPQ5'), ('NHR', 'Shimmer:APQ5'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ5', 'Shimmer'), ('Shimmer:APQ5', 'NHR'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer(dB)', 'Shimmer'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:DDP', 'Jitter:RAP'), ('Shimmer:DDA', 'Shimmer:APQ3'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('motor_UPDRS', 'total_UPDRS')]
+El tiempo de PC-stable es 60.73819088935852
+Uso de CPU: -36.00%
+Memoria utilizada (actual): 2.94 MB
+Memoria pico: 3.73 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 30 relaciones:
+[('subject#', 'sex'), ('subject#', 'Shimmer:APQ11'), ('subject#', 'DFA'), ('age', 'total_UPDRS'), ('age', 'HNR'), ('age', 'RPDE'), ('age', 'DFA'), ('sex', 'NHR'), ('test_time', 'HNR'), ('motor_UPDRS', 'total_UPDRS'), ('total_UPDRS', 'RPDE'), ('Jitter(%)', 'Jitter(Abs)'), ('Jitter(%)', 'Jitter:PPQ5'), ('Jitter(%)', 'PPE'), ('Jitter(Abs)', 'Jitter:PPQ5'), ('Jitter(Abs)', 'PPE'), ('Jitter:RAP', 'Jitter:DDP'), ('Jitter:PPQ5', 'NHR'), ('Shimmer', 'Shimmer(dB)'), ('Shimmer', 'Shimmer:APQ5'), ('Shimmer', 'Shimmer:APQ11'), ('Shimmer(dB)', 'Shimmer:APQ11'), ('Shimmer:APQ3', 'Shimmer:DDA'), ('Shimmer:APQ5', 'Shimmer:APQ11'), ('Shimmer:APQ5', 'NHR'), ('HNR', 'DFA'), ('HNR', 'PPE'), ('RPDE', 'DFA'), ('RPDE', 'PPE'), ('DFA', 'PPE')]
+Vecinos:
+El tiempo de tu algoritmo es 152.98736238479614
+Uso de CPU: 13.40%
+Memoria utilizada (actual): 1.40 MB
+Memoria pico: 2.11 MB
+
+---------------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+PC Ha detectado 10 
+Las aristas aprendidas por PC son:
+[('Class', 'degmalig'), ('nodecaps', 'degmalig'), ('nodecaps', 'invnodes'), ('irradiat', 'invnodes'), ('invnodes', 'nodecaps'), ('invnodes', 'irradiat'), ('breastquad', 'breast'), ('breast', 'breastquad'), ('menopause', 'age'), ('age', 'menopause')]
+El tiempo de PC-stable es 2.19
+Uso de CPU: 21.00%
+Memoria utilizada (actual): 0.56 MB
+Memoria pico: 0.94 MB
+
+---------------------------------------------------------------------------------
+PC Ha detectado 10 
+Las aristas aprendidas por PC son:
+[('Class', 'degmalig'), ('nodecaps', 'degmalig'), ('nodecaps', 'invnodes'), ('irradiat', 'invnodes'), ('invnodes', 'nodecaps'), ('invnodes', 'irradiat'), ('breastquad', 'breast'), ('breast', 'breastquad'), ('menopause', 'age'), ('age', 'menopause')]
+El tiempo de PC-stable es 2.37
+Uso de CPU: 100.00%
+Memoria utilizada (actual): 0.12 MB
+Memoria pico: 0.23 MB
+
+---------------------------------------------------------------------------------
+
+
+PC Ha detectado 10 
+Las aristas aprendidas por PC son:
+[('Class', 'degmalig'), ('nodecaps', 'degmalig'), ('nodecaps', 'invnodes'), ('irradiat', 'invnodes'), ('invnodes', 'nodecaps'), ('invnodes', 'irradiat'), ('breastquad', 'breast'), ('breast', 'breastquad'), ('menopause', 'age'), ('age', 'menopause')]
+El tiempo de PC-stable es 2.52
+Uso de CPU: 0.00%
+Memoria utilizada (actual): 0.12 MB
+Memoria pico: 0.17 MB
+
+---------------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+Existen 2 relaciones:
+[('age', 'menopause'), ('invnodes', 'nodecaps')]
+Vecinos:
+El tiempo de tu algoritmo-estricto es 5.35
+Uso de CPU: -39.00%
+Memoria utilizada (actual): 0.06 MB
+Memoria pico: 0.23 MB
+
+---------------------------------------------------------------------------------
+Existen 2 relaciones:
+[('age', 'menopause'), ('invnodes', 'nodecaps')]
+Vecinos:
+El tiempo de tu algoritmo-estricto es 5.81
+Uso de CPU: 100.00%
+Memoria utilizada (actual): 0.07 MB
+Memoria pico: 0.20 MB
+
+---------------------------------------------------------------------------------
+
+Existen 2 relaciones:
+[('age', 'menopause'), ('invnodes', 'nodecaps')]
+Vecinos:
+El tiempo de tu algoritmo-estricto es 5.55
+Uso de CPU: 0.00%
+Memoria utilizada (actual): 0.07 MB
+Memoria pico: 0.19 MB
+
+---------------------------------------------------------------------------------

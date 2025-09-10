@@ -1,0 +1,32 @@
+wine.data
+Estructura aprendida por el algoritmo Notears:
+['[v1-v5]', '[v1-v11]', '[v1-v14]', '[v2-v11]', '[v2-v14]', '[v3-v6]', '[v3-v11]', '[v3-v14]', '[v4-v5]', '[v4-v6]', '[v4-v14]', '[v5-v14]', '[v6-v14]', '[v7-v8]', '[v7-v11]', '[v7-v14]', '[v8-v6]', '[v8-v10]', '[v8-v14]', '[v9-v6]', '[v9-v14]', '[v10-v6]', '[v10-v11]', '[v10-v14]', '[v11-v14]', '[v12-v11]', '[v12-v14]', '[v13-v6]', '[v13-v11]', '[v13-v14]']
+Ha detectado 30 relaciones distintas de cero.
+El tiempo de Notears es 152.10.28
+Uso de CPU: 89.20%
+Memoria utilizada (actual): 0.11 MB
+Memoria pico: 0.42 MB
+
+---------------------------------------------------------------------------------
+
+wine.data
+Estructura aprendida por el algoritmo Notears:
+['[v1-v5]', '[v1-v11]', '[v1-v14]', '[v2-v11]', '[v2-v14]', '[v3-v6]', '[v3-v11]', '[v3-v14]', '[v4-v5]', '[v4-v6]', '[v4-v14]', '[v5-v14]', '[v6-v14]', '[v7-v8]', '[v7-v11]', '[v7-v14]', '[v8-v6]', '[v8-v10]', '[v8-v14]', '[v9-v6]', '[v9-v14]', '[v10-v6]', '[v10-v11]', '[v10-v14]', '[v11-v14]', '[v12-v11]', '[v12-v14]', '[v13-v6]', '[v13-v11]', '[v13-v14]']
+Ha detectado 30 relaciones distintas de cero.
+El tiempo de Notears es 132.10.73
+Uso de CPU: 89.20%
+Memoria utilizada (actual): 0.08 MB
+Memoria pico: 0.56 MB
+
+---------------------------------------------------------------------------------
+
+wine.data
+Estructura aprendida por el algoritmo Notears:
+['[v1-v5]', '[v1-v11]', '[v1-v14]', '[v2-v11]', '[v2-v14]', '[v3-v6]', '[v3-v11]', '[v3-v14]', '[v4-v5]', '[v4-v6]', '[v4-v14]', '[v5-v14]', '[v6-v14]', '[v7-v8]', '[v7-v11]', '[v7-v14]', '[v8-v6]', '[v8-v10]', '[v8-v14]', '[v9-v6]', '[v9-v14]', '[v10-v6]', '[v10-v11]', '[v10-v14]', '[v11-v14]', '[v12-v11]', '[v12-v14]', '[v13-v6]', '[v13-v11]', '[v13-v14]']
+Ha detectado 30 relaciones distintas de cero.
+El tiempo de Notears es 140.94
+Uso de CPU: 89.20%
+Memoria utilizada (actual): 0.09 MB
+Memoria pico: 0.39 MB
+
+---------------------------------------------------------------------------------

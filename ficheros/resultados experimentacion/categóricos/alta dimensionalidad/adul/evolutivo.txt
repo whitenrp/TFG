@@ -1,0 +1,14 @@
+Existen 8 relaciones:
+[('workclass', 'fnlwgt'), ('workclass', 'education'), ('workclass', 'occupation'), ('workclass', 'relationship'), ('workclass', 'sex'), ('fnlwgt', 'education'), ('educationnum', 'race'), ('capital-loss', 'hoursperweek')]
+Time taken: 5793.58 seconds
+Memory used: 85.90 bytes
+
+Existen 8 relaciones:
+[('workclass', 'fnlwgt'), ('workclass', 'education'), ('workclass', 'occupation'), ('workclass', 'relationship'), ('workclass', 'sex'), ('fnlwgt', 'education'), ('educationnum', 'race'), ('capital-loss', 'hoursperweek')]
+Time taken: 6293.41 seconds
+Memory used: 63.74 bytes
+
+Existen 8 relaciones:
+[('workclass', 'fnlwgt'), ('workclass', 'education'), ('workclass', 'occupation'), ('workclass', 'relationship'), ('workclass', 'sex'), ('fnlwgt', 'education'), ('educationnum', 'race'), ('capital-loss', 'hoursperweek')]
+Time taken: 5393.56 seconds
+Memory used: 72.77 bytes

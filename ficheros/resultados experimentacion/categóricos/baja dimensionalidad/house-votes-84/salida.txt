@@ -1,0 +1,109 @@
+house_limpio.csv
+
+Existen 8 relaciones:
+[('Class', 'physician_fee'), ('Class', 'synfuels_corporation'), ('adoption', 'aid_to_nicaraguan'), ('adoption', 'export_administration'), ('physician_fee', 'education_spending'), ('salvador', 'aid_to_nicaraguan'), ('salvador', 'mx_missile'), ('religious_groups', 'superfund')]
+Time taken: 14.24 seconds
+Memory used: 0.40787792205810547 bytes
+
+
+PC-stable Ha detectado 10 
+Las aristas aprendidas por PC.stable son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 11.42 seconds
+Memory used: 0.4270954132080078 bytes
+
+
+PC Ha detectado 10 
+Las aristas aprendidas por PC son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 14.12 seconds
+Memory used: 0.0 bytes
+
+
+house_limpio.csv
+
+Existen 8 relaciones:
+[('Class', 'physician_fee'), ('Class', 'synfuels_corporation'), ('adoption', 'aid_to_nicaraguan'), ('salvador', 'aid_to_nicaraguan'), ('salvador', 'mx_missile'), ('religious_groups', 'education_spending'), ('anti_satellite', 'aid_to_nicaraguan'), ('education_spending', 'superfund')]
+Time taken: 34.85 seconds
+Memory used: 0.4060220718383789 bytes
+
+
+PC-stable Ha detectado 10 
+Las aristas aprendidas por PC.stable son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 11.72 seconds
+Memory used: 0.4033689498901367 bytes
+
+
+PC Ha detectado 10 
+Las aristas aprendidas por PC son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 14.45 seconds
+Memory used: 0.0 bytes
+
+
+house_limpio.csv
+
+Existen 8 relaciones:
+[('Class', 'physician_fee'), ('Class', 'synfuels_corporation'), ('handicapped_infants', 'education_spending'), ('adoption', 'aid_to_nicaraguan'), ('salvador', 'aid_to_nicaraguan'), ('salvador', 'mx_missile'), ('religious_groups', 'superfund'), ('aid_to_nicaraguan', 'mx_missile')]
+Time taken: 13.50 seconds
+Memory used: 0.3946199417114258 bytes
+
+
+PC-stable Ha detectado 10 
+Las aristas aprendidas por PC.stable son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 11.37 seconds
+Memory used: 0.43834590911865234 bytes
+
+
+PC Ha detectado 10 
+Las aristas aprendidas por PC son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 14.14 seconds
+Memory used: 0.0 bytes
+
+
+house_limpio.csv
+
+Existen 9 relaciones:
+[('Class', 'physician_fee'), ('Class', 'synfuels_corporation'), ('handicapped_infants', 'education_spending'), ('adoption', 'aid_to_nicaraguan'), ('salvador', 'aid_to_nicaraguan'), ('salvador', 'mx_missile'), ('religious_groups', 'superfund'), ('anti_satellite', 'export_administration'), ('aid_to_nicaraguan', 'mx_missile')]
+Time taken: 12.87 seconds
+Memory used: 0.4364509582519531 bytes
+
+
+PC-stable Ha detectado 10 
+Las aristas aprendidas por PC.stable son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 11.48 seconds
+Memory used: 0.4146280288696289 bytes
+
+
+PC Ha detectado 10 
+Las aristas aprendidas por PC son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 14.34 seconds
+Memory used: 0.0 bytes
+
+
+house_limpio.csv
+
+Existen 6 relaciones:
+[('Class', 'physician_fee'), ('Class', 'synfuels_corporation'), ('adoption', 'aid_to_nicaraguan'), ('physician_fee', 'education_spending'), ('salvador', 'mx_missile'), ('salvador', 'crime')]
+Time taken: 30.70 seconds
+Memory used: 0.4400196075439453 bytes
+
+
+PC-stable Ha detectado 10 
+Las aristas aprendidas por PC.stable son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 10.84 seconds
+Memory used: 0.42204856872558594 bytes
+
+
+PC Ha detectado 10 
+Las aristas aprendidas por PC son:
+[('physician_fee', 'Class'), ('physician_fee', 'education_spending'), ('mx_missile', 'aid_to_nicaraguan'), ('mx_missile', 'salvador'), ('aid_to_nicaraguan', 'adoption'), ('anti_satellite', 'export_administration'), ('religious_groups', 'superfund'), ('salvador', 'aid_to_nicaraguan'), ('synfuels_corporation', 'Class'), ('crime', 'salvador')]
+Time taken: 15.48 seconds
+Memory used: 0.0 bytes
+

@@ -1,0 +1,32 @@
+Existen 3 relaciones:
+[('X0', 'X8'), ('X4', 'X12'), ('X5', 'X19')]
+Vecinos:
+El tiempo de tu algoritmo es 31.05
+Uso de CPU: 62.67%
+Memoria utilizada (actual): 0.03 MB
+Memoria pico: 2.05 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 3 relaciones:
+[('X0', 'X8'), ('X4', 'X12'), ('X5', 'X19')]
+Vecinos:
+El tiempo de tu algoritmo es 32.64
+Uso de CPU: 63.40%
+Memoria utilizada (actual): 0.03 MB
+Memoria pico: 2.16 MB
+
+---------------------------------------------------------------------------------
+
+
+
+Existen 3 relaciones:
+[('X0', 'X8'), ('X4', 'X12'), ('X5', 'X19')]
+Vecinos:
+El tiempo de tu algoritmo es 33.57
+Uso de CPU: 67.34%
+Memoria utilizada (actual): 0.03 MB
+Memoria pico: 1.84 MB
+
+---------------------------------------------------------------------------------

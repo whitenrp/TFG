@@ -1,0 +1,29 @@
+PC Ha detectado 4 
+Las aristas aprendidas por PC son:
+[('wind_speed', 'meantemp'), ('meantemp', 'wind_speed'), ('meantemp', 'humidity'), ('humidity', 'meantemp')]
+El tiempo de PC-stable es 0.24
+Uso de CPU: 41.50%
+Memoria utilizada (actual): 0.16 MB
+Memoria pico: 0.23 MB
+
+---------------------------------------------------------------------------------
+
+PC Ha detectado 4 
+Las aristas aprendidas por PC son:
+[('wind_speed', 'meantemp'), ('meantemp', 'wind_speed'), ('meantemp', 'humidity'), ('humidity', 'meantemp')]
+El tiempo de PC-stable es 0.28
+Uso de CPU: 41.50%
+Memoria utilizada (actual): 0.16 MB
+Memoria pico: 0.22 MB
+
+---------------------------------------------------------------------------------
+
+PC Ha detectado 4 
+Las aristas aprendidas por PC son:
+[('wind_speed', 'meantemp'), ('meantemp', 'wind_speed'), ('meantemp', 'humidity'), ('humidity', 'meantemp')]
+El tiempo de PC-stable es 0.22
+Uso de CPU: 41.50%
+Memoria utilizada (actual): 0.16 MB
+Memoria pico: 0.24 MB
+
+---------------------------------------------------------------------------------

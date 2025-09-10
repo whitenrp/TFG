@@ -1,0 +1,35 @@
+house_limpio
+
+Existen 0 relaciones:
+[]
+Vecinos:
+El tiempo de tu algoritmo-estricto es 12.70
+Uso de CPU: 32.60%
+Memoria utilizada (actual): 0.10 MB
+Memoria pico: 0.22 MB
+
+---------------------------------------------------------------------------------
+
+house_limpio
+
+Existen 0 relaciones:
+[]
+Vecinos:
+El tiempo de tu algoritmo-estricto es 10.97
+Uso de CPU: 32.60%
+Memoria utilizada (actual): 0.10 MB
+Memoria pico: 0.28 MB
+
+---------------------------------------------------------------------------------
+
+house_limpio
+
+Existen 0 relaciones:
+[]
+Vecinos:
+El tiempo de tu algoritmo-estricto es 9.69
+Uso de CPU: 32.60%
+Memoria utilizada (actual): 0.10 MB
+Memoria pico: 0.34 MB
+
+---------------------------------------------------------------------------------

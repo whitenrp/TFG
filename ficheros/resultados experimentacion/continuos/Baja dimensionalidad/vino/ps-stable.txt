@@ -1,0 +1,17 @@
+PC-stable Ha detectado 14 
+Las aristas aprendidas por PC.stable son:
+[('v6', 'v4'), ('v6', 'v2'), ('v4', 'v2'), ('v8', 'v13'), ('v8', 'v7'), ('v14', 'v11'), ('v3', 'v11'), ('v3', 'v1'), ('v10', 'v13'), ('v12', 'v13'), ('v1', 'v5'), ('v1', 'v3'), ('v1', 'v9'), ('v9', 'v1')]
+Time taken: 7.23 seconds
+Memory used: 0.16 bytes
+
+PC-stable Ha detectado 14 
+Las aristas aprendidas por PC.stable son:
+[('v6', 'v4'), ('v6', 'v2'), ('v4', 'v2'), ('v8', 'v13'), ('v8', 'v7'), ('v14', 'v11'), ('v3', 'v11'), ('v3', 'v1'), ('v10', 'v13'), ('v12', 'v13'), ('v1', 'v5'), ('v1', 'v3'), ('v1', 'v9'), ('v9', 'v1')]
+Time taken: 6.31 seconds
+Memory used: 0.20 bytes
+
+PC-stable Ha detectado 14 
+Las aristas aprendidas por PC.stable son:
+[('v6', 'v4'), ('v6', 'v2'), ('v4', 'v2'), ('v8', 'v13'), ('v8', 'v7'), ('v14', 'v11'), ('v3', 'v11'), ('v3', 'v1'), ('v10', 'v13'), ('v12', 'v13'), ('v1', 'v5'), ('v1', 'v3'), ('v1', 'v9'), ('v9', 'v1')]
+Time taken: 6.08 seconds
+Memory used: 0.18 bytes

@@ -1,0 +1,21 @@
+Las aristas aprendidas por PC son:
+[('maint', 'Distribution'), ('safety', 'Distribution'), ('lug_boot', 'Distribution'), ('persons', 'Distribution'), ('buying', 'Distribution')]
+Ha detectado 5
+Time taken: 3.29 seconds
+Memory used: 0.26 bytes
+CPU used: 99.6%
+
+
+Las aristas aprendidas por PC son:
+[('maint', 'Distribution'), ('safety', 'Distribution'), ('lug_boot', 'Distribution'), ('persons', 'Distribution'), ('buying', 'Distribution')]
+Ha detectado 5
+Time taken: 3.42 seconds
+Memory used: 0.30 bytes
+CPU used: 99.6%
+
+Las aristas aprendidas por PC son:
+[('maint', 'Distribution'), ('safety', 'Distribution'), ('lug_boot', 'Distribution'), ('persons', 'Distribution'), ('buying', 'Distribution')]
+Ha detectado 5
+Time taken: 3.66 seconds
+Memory used: 0.24 bytes
+CPU used: 99.6%

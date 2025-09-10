@@ -1,0 +1,27 @@
+Estructura aprendida por el algoritmo Notears:
+['[meantemp-humidity]', '[meantemp-meanpressure]', '[humidity-meanpressure]', '[wind_speed-meantemp]', '[wind_speed-humidity]', '[wind_speed-meanpressure]']
+Ha detectado 6 relaciones distintas de cero.
+El tiempo de tu algoritmo es 4.54
+Uso de CPU: 92.80%
+Memoria utilizada (actual): 0.09 MB
+Memoria pico: 0.34 MB
+
+---------------------------------------------------------------------------------
+Estructura aprendida por el algoritmo Notears:
+['[meantemp-humidity]', '[meantemp-meanpressure]', '[humidity-meanpressure]', '[wind_speed-meantemp]', '[wind_speed-humidity]', '[wind_speed-meanpressure]']
+Ha detectado 6 relaciones distintas de cero.
+El tiempo de tu algoritmo es 4.79
+Uso de CPU: 88.80%
+Memoria utilizada (actual): 0.08 MB
+Memoria pico: 0.33 MB
+
+---------------------------------------------------------------------------------
+Estructura aprendida por el algoritmo Notears:
+['[meantemp-humidity]', '[meantemp-meanpressure]', '[humidity-meanpressure]', '[wind_speed-meantemp]', '[wind_speed-humidity]', '[wind_speed-meanpressure]']
+Ha detectado 6 relaciones distintas de cero.
+El tiempo de tu algoritmo es 4.36
+Uso de CPU: 85.80%
+Memoria utilizada (actual): 0.08 MB
+Memoria pico: 0.36 MB
+
+---------------------------------------------------------------------------------

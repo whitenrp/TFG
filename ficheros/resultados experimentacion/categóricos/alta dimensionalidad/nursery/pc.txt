@@ -1,0 +1,17 @@
+PC Ha detectado 5 
+Las aristas aprendidas por PC son:
+[('parents', 'health'), ('social', 'health'), ('housing', 'health'), ('finance', 'health'), ('children', 'health')]
+Time taken: 24.97 seconds
+Memory used: 0.0 bytes
+
+PC Ha detectado 5 
+Las aristas aprendidas por PC son:
+[('parents', 'health'), ('social', 'health'), ('housing', 'health'), ('finance', 'health'), ('children', 'health')]
+Time taken: 24.97 seconds
+Memory used: 0.0 bytes
+
+PC Ha detectado 5 
+Las aristas aprendidas por PC son:
+[('parents', 'health'), ('social', 'health'), ('housing', 'health'), ('finance', 'health'), ('children', 'health')]
+Time taken: 24.97 seconds
+Memory used: 0.0 bytes

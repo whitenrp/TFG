@@ -1,0 +1,490 @@
+
+
+conjunto de 300
+
+PC Ha detectado 46 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_25', 'var_28'), ('var_0', 'var_1'), ('var_27', 'var_6'), ('var_27', 'var_28'), ('var_14', 'var_18'), ('var_3', 'var_12'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_3', 'var_16'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_12'), ('var_16', 'var_3'), ('var_8', 'var_20'), ('var_8', 'var_12'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_12'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_26', 'var_27'), ('var_9', 'var_26'), ('var_28', 'var_27'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 99.58607268333435
+Uso de CPU: 9.60%
+Memoria utilizada (actual): 289.93 MB
+Memoria pico: 744.49 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 46 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_25', 'var_28'), ('var_0', 'var_1'), ('var_27', 'var_6'), ('var_27', 'var_28'), ('var_14', 'var_18'), ('var_3', 'var_12'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_3', 'var_16'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_12'), ('var_16', 'var_3'), ('var_8', 'var_20'), ('var_8', 'var_12'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_12'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_26', 'var_27'), ('var_9', 'var_26'), ('var_28', 'var_27'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 92.83251404762268
+Uso de CPU: 32.50%
+Memoria utilizada (actual): 2.82 MB
+Memoria pico: 3.16 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 58 relaciones:
+[('var_0', 'var_1'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_23'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_23'), ('var_14', 'var_26'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_21'), ('var_17', 'var_23'), ('var_18', 'var_21'), ('var_18', 'var_23'), ('var_21', 'var_22'), ('var_22', 'var_23'), ('var_23', 'var_25'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 400.6261270046234
+Uso de CPU: 10.90%
+Memoria utilizada (actual): 0.92 MB
+Memoria pico: 2.36 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 600
+
+PC Ha detectado 50 
+Las aristas aprendidas por PC son:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_1', 'var_6'), ('var_27', 'var_6'), ('var_27', 'var_10'), ('var_27', 'var_28'), ('var_27', 'var_25'), ('var_14', 'var_18'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_12'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_12'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_12'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_20', 'var_3'), ('var_26', 'var_27'), ('var_23', 'var_28'), ('var_3', 'var_12'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_12', 'var_3'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 114.28395509719849
+Uso de CPU: 68.70%
+Memoria utilizada (actual): 5.03 MB
+Memoria pico: 5.69 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 50 
+Las aristas aprendidas por PC son:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_1', 'var_6'), ('var_27', 'var_6'), ('var_27', 'var_10'), ('var_27', 'var_28'), ('var_27', 'var_25'), ('var_14', 'var_18'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_12'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_12'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_12'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_20', 'var_3'), ('var_26', 'var_27'), ('var_23', 'var_28'), ('var_3', 'var_12'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_12', 'var_3'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 120.58841705322266
+Uso de CPU: 17.90%
+Memoria utilizada (actual): 4.93 MB
+Memoria pico: 5.60 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 65 relaciones:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_0', 'var_13'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_24'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_21'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_23'), ('var_14', 'var_26'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_21'), ('var_18', 'var_21'), ('var_18', 'var_23'), ('var_21', 'var_22'), ('var_22', 'var_23'), ('var_22', 'var_24'), ('var_23', 'var_24'), ('var_23', 'var_25'), ('var_23', 'var_27'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 571.5297846794128
+Uso de CPU: 25.10%
+Memoria utilizada (actual): 1.01 MB
+Memoria pico: 3.86 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 900
+
+PC Ha detectado 62 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_27', 'var_25'), ('var_26', 'var_27'), ('var_4', 'var_28'), ('var_23', 'var_28'), ('var_1', 'var_6'), ('var_0', 'var_6'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_14', 'var_18'), ('var_18', 'var_14'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 161.82366108894348
+Uso de CPU: 9.60%
+Memoria utilizada (actual): 6.86 MB
+Memoria pico: 7.64 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 62 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_27', 'var_25'), ('var_26', 'var_27'), ('var_4', 'var_28'), ('var_23', 'var_28'), ('var_1', 'var_6'), ('var_0', 'var_6'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_14', 'var_18'), ('var_18', 'var_14'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 161.89319920539856
+Uso de CPU: 12.10%
+Memoria utilizada (actual): 6.80 MB
+Memoria pico: 7.68 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 66 relaciones:
+[('var_0', 'var_6'), ('var_0', 'var_10'), ('var_0', 'var_14'), ('var_0', 'var_18'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_1', 'var_28'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_27'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_18'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_26'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_23'), ('var_14', 'var_26'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_21'), ('var_18', 'var_21'), ('var_18', 'var_23'), ('var_21', 'var_22'), ('var_22', 'var_23'), ('var_23', 'var_24'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 604.697252035141
+Uso de CPU: 24.50%
+Memoria utilizada (actual): 0.88 MB
+Memoria pico: 4.92 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 1200
+
+PC Ha detectado 60 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_26', 'var_27'), ('var_23', 'var_28'), ('var_1', 'var_6'), ('var_0', 'var_6'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_14', 'var_18'), ('var_18', 'var_14'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 204.16859698295593
+Uso de CPU: 26.00%
+Memoria utilizada (actual): 8.64 MB
+Memoria pico: 9.83 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 60 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_26', 'var_27'), ('var_23', 'var_28'), ('var_1', 'var_6'), ('var_0', 'var_6'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_14', 'var_18'), ('var_18', 'var_14'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 200.11653637886047
+Uso de CPU: -24.40%
+Memoria utilizada (actual): 8.57 MB
+Memoria pico: 9.71 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 69 relaciones:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_0', 'var_14'), ('var_0', 'var_18'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_1', 'var_28'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_27'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_24'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_23'), ('var_14', 'var_26'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_21'), ('var_18', 'var_21'), ('var_18', 'var_23'), ('var_21', 'var_22'), ('var_22', 'var_23'), ('var_22', 'var_24'), ('var_23', 'var_24'), ('var_23', 'var_25'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 872.7187571525574
+Uso de CPU: 28.50%
+Memoria utilizada (actual): 0.88 MB
+Memoria pico: 6.69 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 1500
+
+PC Ha detectado 62 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_4'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_27', 'var_26'), ('var_18', 'var_14'), ('var_22', 'var_23'), ('var_1', 'var_6'), ('var_0', 'var_6'), ('var_0', 'var_18'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_26', 'var_27'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 254.90552306175232
+Uso de CPU: 24.60%
+Memoria utilizada (actual): 10.28 MB
+Memoria pico: 11.85 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 62 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_4'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_27', 'var_26'), ('var_18', 'var_14'), ('var_22', 'var_23'), ('var_1', 'var_6'), ('var_0', 'var_6'), ('var_0', 'var_18'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_26', 'var_27'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 252.62541699409485
+Uso de CPU: 19.80%
+Memoria utilizada (actual): 10.77 MB
+Memoria pico: 12.23 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 70 relaciones:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_0', 'var_14'), ('var_0', 'var_18'), ('var_0', 'var_23'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_1', 'var_28'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_27'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_24'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_23'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_23'), ('var_14', 'var_26'), ('var_14', 'var_28'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_21'), ('var_17', 'var_23'), ('var_18', 'var_21'), ('var_18', 'var_23'), ('var_21', 'var_22'), ('var_22', 'var_23'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 1151.107168674469
+Uso de CPU: -19.40%
+Memoria utilizada (actual): 7.19 MB
+Memoria pico: 8.86 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 1800
+
+PC Ha detectado 65 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_4'), ('var_27', 'var_10'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_27', 'var_25'), ('var_27', 'var_26'), ('var_4', 'var_6'), ('var_4', 'var_25'), ('var_18', 'var_14'), ('var_22', 'var_23'), ('var_1', 'var_6'), ('var_0', 'var_18'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_26', 'var_27'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 290.8676118850708
+Uso de CPU: -13.80%
+Memoria utilizada (actual): 11.90 MB
+Memoria pico: 13.66 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 65 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_4'), ('var_27', 'var_10'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_27', 'var_25'), ('var_27', 'var_26'), ('var_4', 'var_6'), ('var_4', 'var_25'), ('var_18', 'var_14'), ('var_22', 'var_23'), ('var_1', 'var_6'), ('var_0', 'var_18'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_26', 'var_27'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 298.7002990245819
+Uso de CPU: 24.70%
+Memoria utilizada (actual): 11.79 MB
+Memoria pico: 13.53 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 69 relaciones:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_0', 'var_14'), ('var_0', 'var_18'), ('var_0', 'var_21'), ('var_0', 'var_23'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_1', 'var_28'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_23'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_23'), ('var_14', 'var_26'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_21'), ('var_17', 'var_23'), ('var_18', 'var_21'), ('var_18', 'var_23'), ('var_21', 'var_22'), ('var_22', 'var_23'), ('var_23', 'var_25'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 1133.7576410770416
+Uso de CPU: 32.50%
+Memoria utilizada (actual): 0.97 MB
+Memoria pico: 9.88 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 2100
+
+PC Ha detectado 65 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_4'), ('var_27', 'var_10'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_27', 'var_25'), ('var_27', 'var_26'), ('var_18', 'var_14'), ('var_22', 'var_23'), ('var_17', 'var_23'), ('var_1', 'var_6'), ('var_0', 'var_6'), ('var_0', 'var_18'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_26', 'var_27'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 312.4921922683716
+Uso de CPU: -24.80%
+Memoria utilizada (actual): 13.55 MB
+Memoria pico: 15.49 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 65 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_4'), ('var_27', 'var_10'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_27', 'var_25'), ('var_27', 'var_26'), ('var_18', 'var_14'), ('var_22', 'var_23'), ('var_17', 'var_23'), ('var_1', 'var_6'), ('var_0', 'var_6'), ('var_0', 'var_18'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_26', 'var_27'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 308.5107173919678
+Uso de CPU: 18.90%
+Memoria utilizada (actual): 13.31 MB
+Memoria pico: 15.34 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 72 relaciones:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_0', 'var_10'), ('var_0', 'var_14'), ('var_0', 'var_18'), ('var_0', 'var_23'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_1', 'var_28'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_27'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_26'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_23'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_22'), ('var_14', 'var_23'), ('var_14', 'var_26'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_21'), ('var_17', 'var_23'), ('var_18', 'var_21'), ('var_18', 'var_23'), ('var_21', 'var_22'), ('var_22', 'var_23'), ('var_23', 'var_25'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 1245.386636018753
+Uso de CPU: -18.20%
+Memoria utilizada (actual): 2.40 MB
+Memoria pico: 12.36 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 2400
+
+PC Ha detectado 61 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_10'), ('var_27', 'var_28'), ('var_27', 'var_25'), ('var_27', 'var_26'), ('var_18', 'var_14'), ('var_22', 'var_23'), ('var_1', 'var_6'), ('var_0', 'var_18'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_26', 'var_27'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 320.7950510978699
+Uso de CPU: -24.80%
+Memoria utilizada (actual): 15.02 MB
+Memoria pico: 17.42 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 61 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_10'), ('var_27', 'var_28'), ('var_27', 'var_25'), ('var_27', 'var_26'), ('var_18', 'var_14'), ('var_22', 'var_23'), ('var_1', 'var_6'), ('var_0', 'var_18'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_26', 'var_27'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 320.7318284511566
+Uso de CPU: 16.30%
+Memoria utilizada (actual): 14.83 MB
+Memoria pico: 17.13 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 74 relaciones:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_0', 'var_10'), ('var_0', 'var_14'), ('var_0', 'var_18'), ('var_0', 'var_21'), ('var_0', 'var_23'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_1', 'var_28'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_27'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_26'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_23'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_22'), ('var_14', 'var_23'), ('var_14', 'var_26'), ('var_14', 'var_28'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_21'), ('var_17', 'var_23'), ('var_18', 'var_21'), ('var_18', 'var_23'), ('var_21', 'var_22'), ('var_22', 'var_23'), ('var_23', 'var_25'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 1290.5312836170197
+Uso de CPU: 31.00%
+Memoria utilizada (actual): 1.47 MB
+Memoria pico: 14.43 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 2700
+
+PC Ha detectado 65 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_24', 'var_22'), ('var_27', 'var_6'), ('var_27', 'var_4'), ('var_27', 'var_10'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_27', 'var_25'), ('var_27', 'var_26'), ('var_18', 'var_14'), ('var_22', 'var_23'), ('var_23', 'var_28'), ('var_1', 'var_6'), ('var_0', 'var_18'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_26', 'var_27'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 305.5746970176697
+Uso de CPU: 25.50%
+Memoria utilizada (actual): 16.50 MB
+Memoria pico: 19.06 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 65 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_24', 'var_22'), ('var_27', 'var_6'), ('var_27', 'var_4'), ('var_27', 'var_10'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_27', 'var_25'), ('var_27', 'var_26'), ('var_18', 'var_14'), ('var_22', 'var_23'), ('var_23', 'var_28'), ('var_1', 'var_6'), ('var_0', 'var_18'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_26', 'var_27'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 302.0712614059448
+Uso de CPU: -24.40%
+Memoria utilizada (actual): 16.31 MB
+Memoria pico: 18.83 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 72 relaciones:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_0', 'var_10'), ('var_0', 'var_14'), ('var_0', 'var_18'), ('var_0', 'var_21'), ('var_0', 'var_23'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_1', 'var_28'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_27'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_26'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_23'), ('var_14', 'var_26'), ('var_14', 'var_28'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_21'), ('var_18', 'var_21'), ('var_18', 'var_23'), ('var_21', 'var_22'), ('var_22', 'var_23'), ('var_23', 'var_24'), ('var_23', 'var_25'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 1242.0992603302002
+Uso de CPU: 30.00%
+Memoria utilizada (actual): 1.03 MB
+Memoria pico: 13.16 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 3000
+
+PC Ha detectado 65 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_4'), ('var_27', 'var_10'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_27', 'var_25'), ('var_27', 'var_26'), ('var_10', 'var_26'), ('var_18', 'var_14'), ('var_4', 'var_28'), ('var_23', 'var_28'), ('var_1', 'var_24'), ('var_1', 'var_6'), ('var_22', 'var_23'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 310.22375226020813
+Uso de CPU: -24.40%
+Memoria utilizada (actual): 17.94 MB
+Memoria pico: 20.75 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 65 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_27', 'var_6'), ('var_27', 'var_4'), ('var_27', 'var_10'), ('var_27', 'var_28'), ('var_27', 'var_23'), ('var_27', 'var_25'), ('var_27', 'var_26'), ('var_10', 'var_26'), ('var_18', 'var_14'), ('var_4', 'var_28'), ('var_23', 'var_28'), ('var_1', 'var_24'), ('var_1', 'var_6'), ('var_22', 'var_23'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 308.95882844924927
+Uso de CPU: -3.40%
+Memoria utilizada (actual): 17.77 MB
+Memoria pico: 20.56 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 73 relaciones:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_0', 'var_18'), ('var_0', 'var_23'), ('var_0', 'var_24'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_1', 'var_28'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_27'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_26'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_17'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_22'), ('var_14', 'var_23'), ('var_14', 'var_26'), ('var_14', 'var_28'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_21'), ('var_18', 'var_21'), ('var_18', 'var_22'), ('var_18', 'var_23'), ('var_21', 'var_22'), ('var_22', 'var_23'), ('var_23', 'var_24'), ('var_23', 'var_25'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 1365.1986696720123
+Uso de CPU: 29.70%
+Memoria utilizada (actual): 12.77 MB
+Memoria pico: 14.62 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 3300
+
+PC Ha detectado 63 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_24', 'var_23'), ('var_27', 'var_6'), ('var_27', 'var_28'), ('var_27', 'var_25'), ('var_10', 'var_26'), ('var_26', 'var_27'), ('var_18', 'var_14'), ('var_4', 'var_28'), ('var_23', 'var_28'), ('var_1', 'var_24'), ('var_1', 'var_6'), ('var_22', 'var_23'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 330.93736934661865
+Uso de CPU: 21.50%
+Memoria utilizada (actual): 19.42 MB
+Memoria pico: 22.50 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 63 
+Las aristas aprendidas por PC son:
+[('var_24', 'var_25'), ('var_24', 'var_23'), ('var_27', 'var_6'), ('var_27', 'var_28'), ('var_27', 'var_25'), ('var_10', 'var_26'), ('var_26', 'var_27'), ('var_18', 'var_14'), ('var_4', 'var_28'), ('var_23', 'var_28'), ('var_1', 'var_24'), ('var_1', 'var_6'), ('var_22', 'var_23'), ('var_2', 'var_19'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_2', 'var_11'), ('var_19', 'var_2'), ('var_19', 'var_15'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_7', 'var_2'), ('var_7', 'var_15'), ('var_7', 'var_11'), ('var_7', 'var_19'), ('var_12', 'var_3'), ('var_12', 'var_16'), ('var_12', 'var_5'), ('var_12', 'var_8'), ('var_12', 'var_20'), ('var_3', 'var_16'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_20'), ('var_8', 'var_20'), ('var_8', 'var_3'), ('var_8', 'var_16'), ('var_8', 'var_5'), ('var_8', 'var_12'), ('var_20', 'var_3'), ('var_20', 'var_16'), ('var_20', 'var_5'), ('var_20', 'var_12'), ('var_20', 'var_8'), ('var_16', 'var_8'), ('var_16', 'var_20'), ('var_16', 'var_3'), ('var_16', 'var_5'), ('var_16', 'var_12'), ('var_11', 'var_2'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_7'), ('var_5', 'var_8'), ('var_5', 'var_20'), ('var_5', 'var_3'), ('var_5', 'var_16'), ('var_5', 'var_12'), ('var_15', 'var_2'), ('var_15', 'var_11'), ('var_15', 'var_7'), ('var_15', 'var_19')]
+El tiempo de PC-stable es 331.12239599227905
+Uso de CPU: 22.60%
+Memoria utilizada (actual): 19.19 MB
+Memoria pico: 22.28 MB
+
+---------------------------------------------------------------------------------
+
+
+Existen 72 relaciones:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_0', 'var_18'), ('var_0', 'var_23'), ('var_0', 'var_24'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_1', 'var_28'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_27'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_26'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_17'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_22'), ('var_14', 'var_23'), ('var_14', 'var_26'), ('var_14', 'var_28'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_21'), ('var_18', 'var_21'), ('var_18', 'var_23'), ('var_21', 'var_22'), ('var_22', 'var_23'), ('var_23', 'var_24'), ('var_23', 'var_25'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 1275.5719013214111
+Uso de CPU: 11.30%
+Memoria utilizada (actual): 0.98 MB
+Memoria pico: 15.84 MB
+
+---------------------------------------------------------------------------------
+
+
+conjunto de 3900
+
+
+Existen 75 relaciones:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_0', 'var_18'), ('var_0', 'var_21'), ('var_0', 'var_23'), ('var_0', 'var_24'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_1', 'var_28'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_27'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_18'), ('var_6', 'var_26'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_17'), ('var_9', 'var_21'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_23'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_22'), ('var_14', 'var_23'), ('var_14', 'var_24'), ('var_14', 'var_26'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_21'), ('var_17', 'var_23'), ('var_18', 'var_21'), ('var_18', 'var_22'), ('var_18', 'var_23'), ('var_22', 'var_23'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 1730.9881269931793
+Uso de CPU: 23.60%
+Memoria utilizada (actual): 1.78 MB
+Memoria pico: 18.39 MB
+
+---------------------------------------------------------------------------------
+
+PC Ha detectado 65 
+Las aristas aprendidas por PC son:
+[('var_18', 'var_14'), ('var_18', 'var_23'), ('var_22', 'var_14'), ('var_22', 'var_23'), ('var_27', 'var_28'), ('var_27', 'var_6'), ('var_27', 'var_25'), ('var_4', 'var_28'), ('var_1', 'var_6'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_10', 'var_14'), ('var_10', 'var_26'), ('var_26', 'var_27'), ('var_13', 'var_10'), ('var_15', 'var_7'), ('var_15', 'var_2'), ('var_15', 'var_19'), ('var_15', 'var_11'), ('var_7', 'var_19'), ('var_7', 'var_2'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_16', 'var_8'), ('var_16', 'var_3'), ('var_16', 'var_20'), ('var_16', 'var_12'), ('var_16', 'var_5'), ('var_8', 'var_3'), ('var_8', 'var_20'), ('var_8', 'var_12'), ('var_8', 'var_5'), ('var_8', 'var_16'), ('var_19', 'var_2'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_19', 'var_15'), ('var_2', 'var_19'), ('var_2', 'var_11'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_12', 'var_3'), ('var_12', 'var_20'), ('var_12', 'var_5'), ('var_12', 'var_16'), ('var_12', 'var_8'), ('var_3', 'var_20'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_16'), ('var_3', 'var_8'), ('var_20', 'var_16'), ('var_20', 'var_8'), ('var_20', 'var_3'), ('var_20', 'var_12'), ('var_20', 'var_5'), ('var_5', 'var_3'), ('var_5', 'var_20'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_8'), ('var_11', 'var_7'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_2')]
+El tiempo de PC-stable es 368.8641908168793
+Uso de CPU: 19.80%
+Memoria utilizada (actual): 22.26 MB
+Memoria pico: 24.38 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 65 
+Las aristas aprendidas por PC son:
+[('var_18', 'var_14'), ('var_18', 'var_23'), ('var_22', 'var_14'), ('var_22', 'var_23'), ('var_27', 'var_28'), ('var_27', 'var_6'), ('var_27', 'var_25'), ('var_4', 'var_28'), ('var_1', 'var_6'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_10', 'var_14'), ('var_10', 'var_26'), ('var_26', 'var_27'), ('var_13', 'var_10'), ('var_15', 'var_7'), ('var_15', 'var_2'), ('var_15', 'var_19'), ('var_15', 'var_11'), ('var_7', 'var_19'), ('var_7', 'var_2'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_16', 'var_8'), ('var_16', 'var_3'), ('var_16', 'var_20'), ('var_16', 'var_12'), ('var_16', 'var_5'), ('var_8', 'var_3'), ('var_8', 'var_20'), ('var_8', 'var_12'), ('var_8', 'var_5'), ('var_8', 'var_16'), ('var_19', 'var_2'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_19', 'var_15'), ('var_2', 'var_19'), ('var_2', 'var_11'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_12', 'var_3'), ('var_12', 'var_20'), ('var_12', 'var_5'), ('var_12', 'var_16'), ('var_12', 'var_8'), ('var_3', 'var_20'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_16'), ('var_3', 'var_8'), ('var_20', 'var_16'), ('var_20', 'var_8'), ('var_20', 'var_3'), ('var_20', 'var_12'), ('var_20', 'var_5'), ('var_5', 'var_3'), ('var_5', 'var_20'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_8'), ('var_11', 'var_7'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_2')]
+El tiempo de PC-stable es 364.7653865814209
+Uso de CPU: 19.60%
+Memoria utilizada (actual): 21.98 MB
+Memoria pico: 24.09 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 4200
+
+
+Existen 75 relaciones:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_0', 'var_18'), ('var_0', 'var_22'), ('var_0', 'var_23'), ('var_0', 'var_24'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_1', 'var_28'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_27'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_18'), ('var_6', 'var_26'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_17'), ('var_9', 'var_21'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_21'), ('var_13', 'var_23'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_22'), ('var_14', 'var_23'), ('var_14', 'var_24'), ('var_14', 'var_26'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_23'), ('var_18', 'var_21'), ('var_18', 'var_23'), ('var_22', 'var_23'), ('var_23', 'var_25'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 1976.8875396251678
+Uso de CPU: 21.30%
+Memoria utilizada (actual): 1.10 MB
+Memoria pico: 18.68 MB
+
+---------------------------------------------------------------------------------
+
+PC Ha detectado 63 
+Las aristas aprendidas por PC son:
+[('var_18', 'var_14'), ('var_18', 'var_23'), ('var_23', 'var_28'), ('var_27', 'var_28'), ('var_27', 'var_6'), ('var_27', 'var_25'), ('var_27', 'var_10'), ('var_22', 'var_23'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_24', 'var_25'), ('var_10', 'var_26'), ('var_26', 'var_27'), ('var_15', 'var_7'), ('var_15', 'var_2'), ('var_15', 'var_19'), ('var_15', 'var_11'), ('var_7', 'var_19'), ('var_7', 'var_2'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_16', 'var_8'), ('var_16', 'var_3'), ('var_16', 'var_20'), ('var_16', 'var_12'), ('var_16', 'var_5'), ('var_8', 'var_3'), ('var_8', 'var_20'), ('var_8', 'var_12'), ('var_8', 'var_5'), ('var_8', 'var_16'), ('var_19', 'var_2'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_19', 'var_15'), ('var_2', 'var_19'), ('var_2', 'var_11'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_12', 'var_3'), ('var_12', 'var_20'), ('var_12', 'var_5'), ('var_12', 'var_16'), ('var_12', 'var_8'), ('var_3', 'var_20'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_16'), ('var_3', 'var_8'), ('var_20', 'var_16'), ('var_20', 'var_8'), ('var_20', 'var_3'), ('var_20', 'var_12'), ('var_20', 'var_5'), ('var_5', 'var_3'), ('var_5', 'var_20'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_8'), ('var_11', 'var_7'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_2')]
+El tiempo de PC-stable es 368.90960693359375
+Uso de CPU: 19.60%
+Memoria utilizada (actual): 23.67 MB
+Memoria pico: 25.92 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 63 
+Las aristas aprendidas por PC son:
+[('var_18', 'var_14'), ('var_18', 'var_23'), ('var_23', 'var_28'), ('var_27', 'var_28'), ('var_27', 'var_6'), ('var_27', 'var_25'), ('var_27', 'var_10'), ('var_22', 'var_23'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_24', 'var_25'), ('var_10', 'var_26'), ('var_26', 'var_27'), ('var_15', 'var_7'), ('var_15', 'var_2'), ('var_15', 'var_19'), ('var_15', 'var_11'), ('var_7', 'var_19'), ('var_7', 'var_2'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_16', 'var_8'), ('var_16', 'var_3'), ('var_16', 'var_20'), ('var_16', 'var_12'), ('var_16', 'var_5'), ('var_8', 'var_3'), ('var_8', 'var_20'), ('var_8', 'var_12'), ('var_8', 'var_5'), ('var_8', 'var_16'), ('var_19', 'var_2'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_19', 'var_15'), ('var_2', 'var_19'), ('var_2', 'var_11'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_12', 'var_3'), ('var_12', 'var_20'), ('var_12', 'var_5'), ('var_12', 'var_16'), ('var_12', 'var_8'), ('var_3', 'var_20'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_16'), ('var_3', 'var_8'), ('var_20', 'var_16'), ('var_20', 'var_8'), ('var_20', 'var_3'), ('var_20', 'var_12'), ('var_20', 'var_5'), ('var_5', 'var_3'), ('var_5', 'var_20'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_8'), ('var_11', 'var_7'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_2')]
+El tiempo de PC-stable es 372.4753952026367
+Uso de CPU: 19.70%
+Memoria utilizada (actual): 23.32 MB
+Memoria pico: 25.63 MB
+
+---------------------------------------------------------------------------------
+
+
+
+conjunto de 4500
+
+
+Existen 75 relaciones:
+[('var_0', 'var_1'), ('var_0', 'var_6'), ('var_0', 'var_18'), ('var_0', 'var_22'), ('var_0', 'var_23'), ('var_0', 'var_24'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_1', 'var_28'), ('var_2', 'var_7'), ('var_2', 'var_11'), ('var_2', 'var_15'), ('var_2', 'var_19'), ('var_3', 'var_5'), ('var_3', 'var_8'), ('var_3', 'var_12'), ('var_3', 'var_16'), ('var_3', 'var_20'), ('var_4', 'var_6'), ('var_4', 'var_24'), ('var_4', 'var_25'), ('var_4', 'var_27'), ('var_4', 'var_28'), ('var_5', 'var_8'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_20'), ('var_6', 'var_10'), ('var_6', 'var_14'), ('var_6', 'var_18'), ('var_6', 'var_26'), ('var_6', 'var_27'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_7', 'var_19'), ('var_8', 'var_12'), ('var_8', 'var_16'), ('var_8', 'var_20'), ('var_9', 'var_17'), ('var_9', 'var_21'), ('var_9', 'var_25'), ('var_9', 'var_26'), ('var_10', 'var_13'), ('var_10', 'var_14'), ('var_10', 'var_18'), ('var_10', 'var_26'), ('var_10', 'var_27'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_12', 'var_16'), ('var_12', 'var_20'), ('var_13', 'var_21'), ('var_13', 'var_23'), ('var_13', 'var_26'), ('var_14', 'var_17'), ('var_14', 'var_18'), ('var_14', 'var_22'), ('var_14', 'var_23'), ('var_14', 'var_24'), ('var_14', 'var_26'), ('var_15', 'var_19'), ('var_16', 'var_20'), ('var_17', 'var_23'), ('var_18', 'var_21'), ('var_18', 'var_23'), ('var_22', 'var_23'), ('var_23', 'var_25'), ('var_23', 'var_27'), ('var_23', 'var_28'), ('var_24', 'var_25'), ('var_25', 'var_27'), ('var_25', 'var_28'), ('var_26', 'var_27'), ('var_26', 'var_28'), ('var_27', 'var_28')]
+Vecinos:
+El tiempo de tu algoritmo es 1951.6784193515778
+Uso de CPU: 29.90%
+Memoria utilizada (actual): 1.01 MB
+Memoria pico: 19.43 MB
+
+---------------------------------------------------------------------------------
+
+PC Ha detectado 64 
+Las aristas aprendidas por PC son:
+[('var_18', 'var_14'), ('var_18', 'var_23'), ('var_22', 'var_14'), ('var_22', 'var_23'), ('var_27', 'var_28'), ('var_27', 'var_6'), ('var_27', 'var_25'), ('var_27', 'var_10'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_24', 'var_25'), ('var_10', 'var_14'), ('var_10', 'var_26'), ('var_26', 'var_27'), ('var_15', 'var_7'), ('var_15', 'var_2'), ('var_15', 'var_19'), ('var_15', 'var_11'), ('var_7', 'var_19'), ('var_7', 'var_2'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_16', 'var_8'), ('var_16', 'var_3'), ('var_16', 'var_20'), ('var_16', 'var_12'), ('var_16', 'var_5'), ('var_8', 'var_3'), ('var_8', 'var_20'), ('var_8', 'var_12'), ('var_8', 'var_5'), ('var_8', 'var_16'), ('var_19', 'var_2'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_19', 'var_15'), ('var_2', 'var_19'), ('var_2', 'var_11'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_12', 'var_3'), ('var_12', 'var_20'), ('var_12', 'var_5'), ('var_12', 'var_16'), ('var_12', 'var_8'), ('var_3', 'var_20'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_16'), ('var_3', 'var_8'), ('var_20', 'var_16'), ('var_20', 'var_8'), ('var_20', 'var_3'), ('var_20', 'var_12'), ('var_20', 'var_5'), ('var_5', 'var_3'), ('var_5', 'var_20'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_8'), ('var_11', 'var_7'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_2')]
+El tiempo de PC-stable es 386.36263847351074
+Uso de CPU: 69.80%
+Memoria utilizada (actual): 25.06 MB
+Memoria pico: 27.51 MB
+
+---------------------------------------------------------------------------------
+
+PC-stable Ha detectado 64 
+Las aristas aprendidas por PC son:
+[('var_18', 'var_14'), ('var_18', 'var_23'), ('var_22', 'var_14'), ('var_22', 'var_23'), ('var_27', 'var_28'), ('var_27', 'var_6'), ('var_27', 'var_25'), ('var_27', 'var_10'), ('var_1', 'var_6'), ('var_1', 'var_24'), ('var_24', 'var_25'), ('var_10', 'var_14'), ('var_10', 'var_26'), ('var_26', 'var_27'), ('var_15', 'var_7'), ('var_15', 'var_2'), ('var_15', 'var_19'), ('var_15', 'var_11'), ('var_7', 'var_19'), ('var_7', 'var_2'), ('var_7', 'var_11'), ('var_7', 'var_15'), ('var_16', 'var_8'), ('var_16', 'var_3'), ('var_16', 'var_20'), ('var_16', 'var_12'), ('var_16', 'var_5'), ('var_8', 'var_3'), ('var_8', 'var_20'), ('var_8', 'var_12'), ('var_8', 'var_5'), ('var_8', 'var_16'), ('var_19', 'var_2'), ('var_19', 'var_11'), ('var_19', 'var_7'), ('var_19', 'var_15'), ('var_2', 'var_19'), ('var_2', 'var_11'), ('var_2', 'var_7'), ('var_2', 'var_15'), ('var_12', 'var_3'), ('var_12', 'var_20'), ('var_12', 'var_5'), ('var_12', 'var_16'), ('var_12', 'var_8'), ('var_3', 'var_20'), ('var_3', 'var_12'), ('var_3', 'var_5'), ('var_3', 'var_16'), ('var_3', 'var_8'), ('var_20', 'var_16'), ('var_20', 'var_8'), ('var_20', 'var_3'), ('var_20', 'var_12'), ('var_20', 'var_5'), ('var_5', 'var_3'), ('var_5', 'var_20'), ('var_5', 'var_12'), ('var_5', 'var_16'), ('var_5', 'var_8'), ('var_11', 'var_7'), ('var_11', 'var_15'), ('var_11', 'var_19'), ('var_11', 'var_2')]
+El tiempo de PC-stable es 380.92418241500854
+Uso de CPU: 15.60%
+Memoria utilizada (actual): 24.73 MB
+Memoria pico: 27.17 MB
+
+---------------------------------------------------------------------------------
+
+

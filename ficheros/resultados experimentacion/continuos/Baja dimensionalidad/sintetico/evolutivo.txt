@@ -1,0 +1,29 @@
+Existen 2 relaciones:
+[('meantemp', 'humidity'), ('meantemp', 'wind_speed')]
+Vecinos:
+El tiempo de tu algoritmo es 0.22
+Uso de CPU: 34.60%
+Memoria utilizada (actual): 0.10 MB
+Memoria pico: 0.16 MB
+
+---------------------------------------------------------------------------------
+
+Existen 2 relaciones:
+[('meantemp', 'humidity'), ('meantemp', 'wind_speed')]
+Vecinos:
+El tiempo de tu algoritmo es 0.25
+Uso de CPU: 34.60%
+Memoria utilizada (actual): 0.9 MB
+Memoria pico: 0.14 MB
+
+---------------------------------------------------------------------------------
+
+Existen 2 relaciones:
+[('meantemp', 'humidity'), ('meantemp', 'wind_speed')]
+Vecinos:
+El tiempo de tu algoritmo es 0.21
+Uso de CPU: 34.60%
+Memoria utilizada (actual): 0.8 MB
+Memoria pico: 0.10 MB
+
+---------------------------------------------------------------------------------

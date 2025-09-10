@@ -1,0 +1,24 @@
+PC Ha detectado 14 
+Las aristas aprendidas por PC son:
+[('v3', 'v11'), ('v3', 'v1'), ('v4', 'v2'), ('v14', 'v11'), ('v1', 'v5'), ('v1', 'v3'), ('v1', 'v9'), ('v6', 'v4'), ('v6', 'v2'), ('v10', 'v13'), ('v8', 'v7'), ('v8', 'v13'), ('v12', 'v13'), ('v9', 'v1')]
+El tiempo de PC-stable es 8.84
+Uso de CPU: 45.10%
+Memoria utilizada (actual): 0.18 MB
+Memoria pico: 0.18 MB
+
+PC Ha detectado 14 
+Las aristas aprendidas por PC son:
+[('v3', 'v11'), ('v3', 'v1'), ('v4', 'v2'), ('v14', 'v11'), ('v1', 'v5'), ('v1', 'v3'), ('v1', 'v9'), ('v6', 'v4'), ('v6', 'v2'), ('v10', 'v13'), ('v8', 'v7'), ('v8', 'v13'), ('v12', 'v13'), ('v9', 'v1')]
+El tiempo de PC-stable es 8.99
+Uso de CPU: 32.10%
+Memoria utilizada (actual): 0.16 MB
+Memoria pico: 0.16 MB
+
+
+PC Ha detectado 14 
+Las aristas aprendidas por PC son:
+[('v3', 'v11'), ('v3', 'v1'), ('v4', 'v2'), ('v14', 'v11'), ('v1', 'v5'), ('v1', 'v3'), ('v1', 'v9'), ('v6', 'v4'), ('v6', 'v2'), ('v10', 'v13'), ('v8', 'v7'), ('v8', 'v13'), ('v12', 'v13'), ('v9', 'v1')]
+El tiempo de PC-stable es 8.24
+Uso de CPU: 39.10%
+Memoria utilizada (actual): 0.21 MB
+Memoria pico: 0.25 MB

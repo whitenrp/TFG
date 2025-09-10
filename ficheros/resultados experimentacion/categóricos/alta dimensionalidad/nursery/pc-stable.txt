@@ -1,0 +1,17 @@
+PC-stable Ha detectado 5 
+Las aristas aprendidas por PC.stable son:
+[('parents', 'health'), ('social', 'health'), ('housing', 'health'), ('finance', 'health'), ('children', 'health')]
+Time taken: 29.14 seconds
+Memory used: 1.64 bytes
+
+PC-stable Ha detectado 5 
+Las aristas aprendidas por PC.stable son:
+[('parents', 'health'), ('social', 'health'), ('housing', 'health'), ('finance', 'health'), ('children', 'health')]
+Time taken: 26.14 seconds
+Memory used: 1.01 bytes
+
+PC-stable Ha detectado 5 
+Las aristas aprendidas por PC.stable son:
+[('parents', 'health'), ('social', 'health'), ('housing', 'health'), ('finance', 'health'), ('children', 'health')]
+Time taken: 31.14 seconds
+Memory used: 1.215 bytes

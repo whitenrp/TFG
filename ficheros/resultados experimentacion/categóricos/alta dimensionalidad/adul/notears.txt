@@ -1,0 +1,17 @@
+Las aristas aprendidas por PC son:
+[('capital-loss', 'maritalstatus'), ('capital-loss', 'educationnum'), ('capital-loss', 'hoursperweek'), ('capital-loss', 'race'), ('capital-loss', 'capitalgain'), ('maritalstatus', 'educationnum'), ('race', 'educationnum'), ('race', 'maritalstatus'), ('race', 'capital-loss'), ('educationnum', 'maritalstatus'), ('capitalgain', 'hoursperweek'), ('capitalgain', 'capital-loss'), ('sex', 'workclass'), ('workclass', 'occupation'), ('workclass', 'education'), ('workclass', 'fnlwgt'), ('nativecountry', 'maritalstatus'), ('nativecountry', 'educationnum'), ('education', 'fnlwgt'), ('relationship', 'workclass'), ('age', 'hoursperweek'), ('fnlwgt', 'education')]
+Ha detectado 22
+Time taken: 7291.37 seconds
+Memory used: 94.67 bytes
+
+Las aristas aprendidas por PC son:
+[('capital-loss', 'maritalstatus'), ('capital-loss', 'educationnum'), ('capital-loss', 'hoursperweek'), ('capital-loss', 'race'), ('capital-loss', 'capitalgain'), ('maritalstatus', 'educationnum'), ('race', 'educationnum'), ('race', 'maritalstatus'), ('race', 'capital-loss'), ('educationnum', 'maritalstatus'), ('capitalgain', 'hoursperweek'), ('capitalgain', 'capital-loss'), ('sex', 'workclass'), ('workclass', 'occupation'), ('workclass', 'education'), ('workclass', 'fnlwgt'), ('nativecountry', 'maritalstatus'), ('nativecountry', 'educationnum'), ('education', 'fnlwgt'), ('relationship', 'workclass'), ('age', 'hoursperweek'), ('fnlwgt', 'education')]
+Ha detectado 22
+Time taken: 7183.40 seconds
+Memory used: 87.19 bytes
+
+Las aristas aprendidas por PC son:
+[('capital-loss', 'maritalstatus'), ('capital-loss', 'educationnum'), ('capital-loss', 'hoursperweek'), ('capital-loss', 'race'), ('capital-loss', 'capitalgain'), ('maritalstatus', 'educationnum'), ('race', 'educationnum'), ('race', 'maritalstatus'), ('race', 'capital-loss'), ('educationnum', 'maritalstatus'), ('capitalgain', 'hoursperweek'), ('capitalgain', 'capital-loss'), ('sex', 'workclass'), ('workclass', 'occupation'), ('workclass', 'education'), ('workclass', 'fnlwgt'), ('nativecountry', 'maritalstatus'), ('nativecountry', 'educationnum'), ('education', 'fnlwgt'), ('relationship', 'workclass'), ('age', 'hoursperweek'), ('fnlwgt', 'education')]
+Ha detectado 22
+Time taken: 7085.34 seconds
+Memory used: 96.39 bytes

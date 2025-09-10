@@ -1,0 +1,30 @@
+
+Estructura aprendida por el algoritmo Notears:
+[]
+Ha detectado 0 relaciones distintas de cero.
+El tiempo de tu algoritmo es 5400.1
+Uso de CPU: 100.00%
+Memoria utilizada (actual): 1.55 MB
+Memoria pico: 3.28 MB
+
+---------------------------------------------------------------------------------
+
+Estructura aprendida por el algoritmo Notears:
+[]
+Ha detectado 0 relaciones distintas de cero.
+El tiempo de tu algoritmo es 5273.08
+Uso de CPU: 100.00%
+Memoria utilizada (actual): 1.55 MB
+Memoria pico: 3.16 MB
+
+---------------------------------------------------------------------------------
+
+Estructura aprendida por el algoritmo Notears:
+[]
+Ha detectado 0 relaciones distintas de cero.
+El tiempo de tu algoritmo es 5753.78
+Uso de CPU: 100.00%
+Memoria utilizada (actual): 1.55 MB
+Memoria pico: 3.18 MB
+
+---------------------------------------------------------------------------------

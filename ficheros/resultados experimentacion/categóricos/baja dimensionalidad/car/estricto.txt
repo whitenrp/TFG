@@ -1,0 +1,23 @@
+Evolutivo - Propio
+
+Existen 5 relaciones:
+[('buying', 'Distribution'), ('maint', 'Distribution'), ('persons', 'Distribution'), ('lug_boot', 'Distribution'), ('safety', 'Distribution')]
+Time taken: 3.42 seconds
+Memory used: 0.40 bytes
+CPU used: 294.2%
+
+Evolutivo - Propio
+
+Existen 5 relaciones:
+[('buying', 'Distribution'), ('maint', 'Distribution'), ('persons', 'Distribution'), ('lug_boot', 'Distribution'), ('safety', 'Distribution')]
+Time taken: 3.82 seconds
+Memory used: 0.40 bytes
+CPU used: 320.2%
+
+Evolutivo - Propio
+
+Existen 5 relaciones:
+[('buying', 'Distribution'), ('maint', 'Distribution'), ('persons', 'Distribution'), ('lug_boot', 'Distribution'), ('safety', 'Distribution')]
+Time taken: 2.82 seconds
+Memory used: 0.40 bytes
+CPU used: 308.2%

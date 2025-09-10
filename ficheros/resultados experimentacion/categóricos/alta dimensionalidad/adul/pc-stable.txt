@@ -1,0 +1,17 @@
+Estructura aprendida por el algoritmo PC-stable:
+[('workclass', 'education'), ('workclass', 'fnlwgt'), ('workclass', 'occupation'), ('education', 'fnlwgt'), ('relationship', 'workclass'), ('fnlwgt', 'education'), ('sex', 'workclass')]
+Ha detectado 7
+Time taken: 6266.99 seconds
+Memory used: 80.14 bytes
+
+Estructura aprendida por el algoritmo PC-stable:
+[('workclass', 'education'), ('workclass', 'fnlwgt'), ('workclass', 'occupation'), ('education', 'fnlwgt'), ('relationship', 'workclass'), ('fnlwgt', 'education'), ('sex', 'workclass')]
+Ha detectado 7
+Time taken: 6046.99 seconds
+Memory used: 76.66 bytes
+
+Estructura aprendida por el algoritmo PC-stable:
+[('workclass', 'education'), ('workclass', 'fnlwgt'), ('workclass', 'occupation'), ('education', 'fnlwgt'), ('relationship', 'workclass'), ('fnlwgt', 'education'), ('sex', 'workclass')]
+Ha detectado 7
+Time taken: 6136.99 seconds
+Memory used: 82.49 bytes

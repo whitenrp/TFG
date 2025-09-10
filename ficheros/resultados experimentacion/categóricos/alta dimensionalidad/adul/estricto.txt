@@ -1,0 +1,14 @@
+Existen 13 relaciones:
+[('age', 'hoursperweek'), ('workclass', 'fnlwgt'), ('workclass', 'education'), ('workclass', 'occupation'), ('workclass', 'relationship'), ('workclass', 'sex'), ('fnlwgt', 'education'), ('educationnum', 'capitalgain'), ('educationnum', 'capital-loss'), ('educationnum', 'nativecountry'), ('educationnum', 'hoursperweek'), ('maritalstatus', 'nativecountry'), ('maritalstatus', 'hoursperweek')]
+Time taken: 5389.55 seconds
+Memory used: 73.83 bytes
+
+Existen 13 relaciones:
+[('age', 'hoursperweek'), ('workclass', 'fnlwgt'), ('workclass', 'education'), ('workclass', 'occupation'), ('workclass', 'relationship'), ('workclass', 'sex'), ('fnlwgt', 'education'), ('educationnum', 'capitalgain'), ('educationnum', 'capital-loss'), ('educationnum', 'nativecountry'), ('educationnum', 'hoursperweek'), ('maritalstatus', 'nativecountry'), ('maritalstatus', 'hoursperweek')]
+Time taken: 5409.55 seconds
+Memory used: 81.59 bytes
+
+Existen 13 relaciones:
+[('age', 'hoursperweek'), ('workclass', 'fnlwgt'), ('workclass', 'education'), ('workclass', 'occupation'), ('workclass', 'relationship'), ('workclass', 'sex'), ('fnlwgt', 'education'), ('educationnum', 'capitalgain'), ('educationnum', 'capital-loss'), ('educationnum', 'nativecountry'), ('educationnum', 'hoursperweek'), ('maritalstatus', 'nativecountry'), ('maritalstatus', 'hoursperweek')]
+Time taken: 5469.55 seconds
+Memory used: 92.06 bytes
