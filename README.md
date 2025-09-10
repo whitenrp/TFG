@@ -38,7 +38,7 @@ En este directorio se encuentran todas las bases de datos utilizadas en la Exper
     │       │   ├── criteo-uplift-v2.1
     │       │   ├── dowhy
     │       │   ├── higgs
-    │       │   └── nursery
+    │       │   └── wine
     │       └── Baja Dimensionalidad
     │           ├── sintetico_continuo
     │           ├── ihpi
@@ -147,7 +147,7 @@ En el se encontrarán todas los ficheros auxiliares, imagenes y resultados de la
     │           │   ├── Salida_Evolutivo-estricto.txt
     │           │   ├── Salida_PC.txt
     │           │   └── Salida_PC-stable.txt
-    │           ├── nursery
+    │           ├── wine
     │           │   ├── Salida_Notears.txt
     │           │   ├── Salida_Evolutivo.txt
     │           │   ├── Salida_Evolutivo-estricto.txt
